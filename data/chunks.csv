@@ -1,0 +1,3555 @@
+,text
+0,"Predictive Maintenance 
+with MATLAB
+Avoid costly equipment failures by using 
+sensor data analytics
+Predictive maintenance is the intelligent health monitoring of equipment 
+to avoid future equipment failure. In contrast to preventive maintenance, 
+which follows a set timeline, predictive maintenance schedules are 
+determined by analytic algorithms and data from equipment sensors. 
+With predictive maintenance, organizations can identify issues before"
+1,"equipment fails, pinpoint the root cause of the failure, and schedule 
+maintenance as soon as it’s needed.
+What is Predictive Maintenance?
+3
+Predictive Maintenance with MATLAB
+MATLAB for Predictive Maintenance 
+Today, more and more manufacturers and other organizations 
+use MATLAB
+® to develop and deploy monitoring and predictive 
+maintenance software. With MATLAB they can analyze and 
+visualize big data sets, implement advanced machine learning"
+2,"algorithms, and run the algorithms in a production 
+cloud environment. 
+MATLAB provides an end-to-end solution for predictive 
+maintenance. With MATLAB you can:
+•	 Access and preprocess data from a variety of sources
+•	 Develop predictive models using machine 
+learning techniques
+•	 Create dashboards for visualizing and interacting with the 
+model results
+•	 Deploy predictive maintenance algorithms in production 
+systems and embedded devices"
+3,"systems and embedded devices
+“Our financial control department determined that we are saving up to 
+50,000 euros a month by using MATLAB for predictive maintenance.  
+That total is based on just eight machines. We expect that to increase at 
+least fourfold as we analyze the data from more of our machines.” 
+— Dr. Michael Kohlert, Mondi 
+Read user story
+4
+Predictive Maintenance with MATLAB
+Sensor data from equipment can reside in multiple sources such as"
+4,"text files, spreadsheets, databases, and OPC servers.  Wherever 
+your data is, you can get to it with MATLAB.  
+But not all data is useful data. You start by preprocessing with 
+MATLAB, using techniques such as:
+•	 Time series data synchronization, to align data that is sampled 
+at different rates and may contain missing values
+•	 Advanced signal processing to remove noise from sensor data
+•	 Feature selection, extraction, and transformation, to determine"
+5,"which data will be the most helpful for predicting failures
+Access and Preprocess Data
+“We need to filter our data, look at poles and zeroes, run nonlinear 
+optimizations, and perform numerous other tasks. In MATLAB, those 
+capabilities are all integrated, robust, and commercially validated.”
+— Borislav Savkovic, BuildingIQ
+Read user story
+.xls
+.txt
+5
+Predictive Maintenance with MATLAB
+Algorithms for data clustering, classification, and"
+6,"system identification are critical to building successful 
+predictive maintenance models. These models are typically 
+trained and tested on input data in the form of temperature, 
+pressure, voltage, noise, or vibration to: 
+•	 Predict a specific failure 
+•	 Monitor the health of the equipment
+With MATLAB you can quickly iterate and try different 
+algorithms. MATLAB apps let you: 
+•	 Interactively explore your data
+•	 Select the more important variables for your model"
+7,"•	 Train common predictive models in parallel
+•	 Assess and compare multiple models
+“As a process engineer I had no experience with neural networks 
+or machine learning. I worked through the MATLAB examples 
+to find the best machine learning functions for generating virtual 
+metrology. I couldn’t have done this in C or Python—it would’ve 
+taken too long to find, validate, and integrate the right packages.”
+— Emil Schmitt-Weaver, ASML
+Read user story 
+Develop Predictive Models"
+8,"Read user story 
+Develop Predictive Models
+Interactively train and evaluate predictive models using the 
+Classification Learner app.
+6
+Predictive Maintenance with MATLAB
+Once you’ve developed your models, you want to get them up 
+and running as quickly as possible.  MATLAB integrates into 
+enterprise systems, clusters, and clouds, and can be targeted to 
+real-time embedded hardware.
+To shorten response times and send less data over the network, 
+you can deploy the models directly on machines."
+9,"you can deploy the models directly on machines. 
+MATLAB lets you:
+•	 Automatically generate code from models 
+•	 Implement the code in an embedded system
+•	 Target real-time hardware
+To make results immediately available to operators on the 
+shop floor, you can 
+•	 Create analytics dashboards
+•	 Deploy models in desktop applications
+•	 Operationalize models in a server or cloud environment
+“There’s a misconception that MATLAB is only for research or development. We operate our"
+10,"machines nonstop, even on Christmas, and we rely on our MATLAB based monitoring and 
+predictive maintenance software to run continuously and reliably in production.”
+— Dr. Michael Kohlert, Mondi
+ Read user story
+Deploy Models in Production
+• Engineering, scientiﬁc, and ﬁeld
+• Business and transactional
+DATA
+ENTERPRISE IT SYSTEMS
+EMBEDDED SYSTEMS
+Deploy MATLAB analytics to run in 
+embedded systems 
+Deploy MATLAB analytics
+to enterprise IT systems
+7
+Predictive Maintenance with MATLAB"
+11,"7
+Predictive Maintenance with MATLAB
+Industry Example
+Truck with positive displacement pump.
+Baker Hughes Develops Predictive Maintenance Software for Gas 
+and Oil Extraction Equipment
+Baker Hughes trucks are equipped with positive displacement 
+pumps that inject a mixture of water and sand at high pressures 
+deep into drilled wells. With pumps accounting for about 
+$100,000 of the $1.5 million total cost of the truck, Baker Hughes"
+12,"needed to determine when a pump was about to fail. Too-frequent 
+maintenance wasted effort and resulted in still-usable parts being 
+replaced, while too-infrequent maintenance risked damaging 
+pumps beyond repair.
+Working in MATLAB, Baker Hughes engineers developed 
+pump health monitoring software that applies machine learning 
+techniques in real time to predict the ideal time to perform 
+maintenance. They processed and analyzed up to a terabyte"
+13,"of data collected at 50,000 samples per second from sensors 
+installed on 10 trucks operating in the field, identified the 
+parameters that were useful in predicting failures, and created 
+and trained a neural network to use sensor data to predict pump 
+failures.
+The software is expected to reduce maintenance costs by 
+30–40%—or more than $10 million.
+“MATLAB enabled us to perform our analyses and processing, 
+including machine learning.  . . . If we had to write our own code"
+14,"using lower-level language libraries for all the built-in MATLAB 
+capabilities we needed, it would likely have taken an order of 
+magnitude longer to complete this project.”
+– Gulshan Singh, Baker Hughes
+ Read user story
+Explore these resources to learn more about developing and deploying 
+predictive maintenance models with MATLAB.
+Watch
+Predictive Maintenance with MATLAB: A Prognostics Case Study 52:22
+Signal Processing and Machine Learning Techniques for Sensor Data Analytics 42:45
+Read"
+15,"Read
+Mondi Implements Predictive Maintenance for Manufacturing Process
+Three Ways to Estimate Remaining Useful Life: Predictive Maintenance with MATLAB
+Explore
+5 Types of Data and How to Analyze them with MATLAB
+Smoothing: Remove Noise from Data Sets
+Select Features for Classifying High-Dimensional Data
+Get a Free Trial
+MATLAB Predictive Maintenance Products
+Contact
+Talk to Our Experts"
+16,"Contact
+Talk to Our Experts
+© 2019 The MathWorks, Inc. MATLAB and Simulink are registered trademarks of The MathWorks, Inc. See mathworks.com/trademarks for a list of additional trademarks. 
+Other product or brand names may be trademarks or registered trademarks of their respective holders.
+ 93060v00 11/19
+Learn More
+1 Corresponding author: Manish Shrivastava 
+    Email: manish.shrivastava@vgu.ac.in 
+55 
+ 
+Vol. 05, No. S1 (2023) 55-62, doi: 10.24874/PES.SI.01.007 
+ 
+Proceedings on Engineering"
+17,"Proceedings on Engineering  
+Sciences 
+ 
+www.pesjournal.net 
+ 
+ 
+ 
+INTEGRATING SENSOR DATA AND MACHINE 
+LEARNING FOR PREDICTIVE MAINTENANCE IN 
+INDUSTRY 4.0 
+ 
+ 
+Manish Shrivastava1 
+Priyank Singhal  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Received 25.04.2023. 
+Bhuvana J. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Accepted 23.06.2023. 
+ 
+Keywords: 
+Predictive maintenance, machine 
+learning, sensor data, enhanced naïve 
+bayes artificial neural network 
+(ENBANN), industry 4.0 technologie. 
+A B S T R A C T"
+18,"A B S T R A C T 
+The availability of manufacturing machinery is crucial for having a productive 
+production line. So, for industrialists, being successful in the field of maintenance 
+is crucial if they want to make sure that key equipment is performing as it should 
+and that unscheduled downtime is kept to a minimum. Predictive maintenance 
+skills are viewed as being essential with the rise of complex industrial processes."
+19,"The assistance that contemporary value chains may provide for a company's 
+maintenance role is another area of focus. The development of sensors and 
+Industry 4.0 technologies has greatly improved access to data from equipment, 
+processes, and products. Electric motor condition monitoring and predictive 
+maintenance help the industry avoid significant financial losses brought on by 
+unforeseen motor breakdowns and significantly increase system dependability."
+20,"This research offers Enhanced Nave Bayes Artificial Neural Network-based 
+machine learning architecture for Predictive Maintenance. The system was tested 
+in an industrial setting by building a data collection and analysis system using 
+sensors, analyzing the data with a machine learning approach, and comparing the 
+results to those generated by a simulation tool. With the help of the Azure Cloud, 
+the Data Analysis Tool may access information collected by a wide variety of"
+21,"sensors, machine PLCs, and communication protocols. Preliminary results show 
+that the method correctly predicts a wide range of machine states.  
+© 2023 Published by Faculty of Engineering 
+ 
+ 
+ 
+ 
+1. INTRODUCTION  
+ 
+Predictive maintenance (PM), often known as ""online 
+monitoring,"" ""risk-based maintenance,"" or ""condition-
+based maintenance,"" has been the focus of several recent 
+research publications and has a long history (Erbiyik 
+2022). It speaks of the careful monitoring of machinery to"
+22,"prevent future breakdowns. The original method of 
+predictive maintenance, visual inspection, has evolved into 
+automated 
+systems 
+employing 
+cutting-edge 
+signal 
+processing methodologies based on recognition of patterns 
+and neural networks, fuzzy logic, machine learning, etc. 
+(Benardos and Vosniakos 2003). Many companies can 
+detect and gather sensitive information from equipment, 
+primarily motors, using automated ways, although human"
+23,"eyes and ears may no longer be able to do so. Predictive 
+maintenance, when used in conjunction with integrated 
+sensors, may decrease machine downtime, prevent 
+needless equipment replacement, identify the source of a 
+problem, and ultimately save money and increase 
+Shrivastava et al., Integrating sensor data and machine learning for predictive maintenance in industry 4.0 
+56 
+productivity (Daily and Peterson 2017) By way of 
+planning the protection work to prevent machine"
+24,"planning the protection work to prevent machine 
+breakdowns, predictive maintenance, and preventive 
+maintenance 
+has 
+certain 
+similarities. 
+Predictive 
+maintenance programs, as opposed rely on data acquired 
+by sensors and analytical algorithms, as opposed to 
+conventional preventive maintenance. (Cheng et al., 2020) 
+Induction motors account for over seventy percent of all 
+electricity-powered loads in process industries. In this"
+25,"context, there has been a lot of interest in finding enhanced 
+techniques to assess the health of these motors. The most 
+prevalent reason for motor failure and the most frequent 
+upkeep issue are both recognized as bearing failure. 
+Predictive maintenance hence primarily emphasizes two 
+points: increased energy efficiency and less unplanned 
+downtime (Nacchia et al., 2021) 
+ 
+The data-driven strategy sometimes addressed as the data 
+mining strategy or the ML strategy employs historical data"
+26,"to develop a model of machinery performance. When 
+using a model-based methodology, it is possible to include 
+a physical comprehension of the intended result since the 
+analytical model is used to depict the system's behavior 
+(Utting et al., 2012). In fields where data availability is 
+growing, like maintenance in the industrial sector, machine 
+learning techniques are successfully applied. It is 
+progressively offering efficient solutions, cloud-based"
+27,"solutions, and fresh algorithmic developments.  
+The following two primary classifications may be used to 
+categorize machine learning-based PM: Unsupervised 
+which procedure data is provided but no protection data 
+exists and Supervised which the data on the incidence of 
+fault is contained in the modeling dataset (Calabrese et al., 
+2019). The kind of present protection supervision policy 
+mainly determines the convenience of maintenance data."
+28,"The use of supervised solutions is advised wherever 
+possible. Regression problems and classification problems 
+are the two groups of supervised problems that are 
+achievable from a machine-learning standpoint, based on 
+the results of the data set. This research presents a novel 
+PM strategy on a cutting machine based on PM machine 
+learning. Given the growing requirement to reduce 
+downtime and related costs, PM is an effective technique"
+29,"for handling maintenance difficulties. Based on a genuine 
+industrial group, for instance, the ENBANN has been used 
+in an experimental setting to provide accurate estimations. 
+ 
+2. RELATED WORKS 
+ 
+The paper (Çınar et al., 2020) presented a systematic 
+overview of the current developments of ML approaches 
+that are extensively used in PM for smart manufacturing in 
+I4.0 by categorizing the study according to the ML 
+algorithms utilized. The article (Zonta et al., 2020)"
+30,"provided an examination of the literature on Industry 4.0 
+initiatives for preventative maintenance, identifying and 
+categorizing methods, standards, and applications. A 
+discussion of the current challenges and limitations in 
+predictive maintenance, as well as a new taxonomy for 
+classifying this area of research in light of Industry 4.0 
+needs, are among the survey's major contributions. The 
+study (Butte et al., 2018) explored a cutting-edge PM tactic"
+31,"that makes use of machine learning. Several methods are 
+explored for both posing and solving the PM issue. The 
+effectiveness of various machine learning algorithms is 
+assessed by analyzing equipment data. The article (Pech et 
+al., 2021) presented a detailed review of current trends to 
+aid in the organization and direction of future studies. At a 
+similar 
+moment, 
+it 
+provides 
+answers 
+to 
+crucial 
+questionnaires 
+about 
+current 
+trends 
+in 
+protection"
+32,"about 
+current 
+trends 
+in 
+protection 
+procedures in smart factories. They identify which Industry 
+4.0 methodologies and intelligent sensors are often used in 
+smart factories to offer maintenance. 
+ 
+The study (Zhang et al., 2019) aimed to give graduate 
+students, businesses, and institutions a basic grasp of the 
+recently published works by concentrating on data-driven 
+approaches for predictive maintenance, providing a 
+thorough assessment of its applications. The paper"
+33,"(Zenisek et al., 2019) provided a machine learning-based 
+method for discovering errant patterns of thought, or 
+""concept drifts,"" in real-time information flows. Predictive 
+Maintenance (PM) is a proactive method of triggering 
+service procedures for industrial machinery, and it is this 
+issue that inspired our work. The research (Makridis et al., 
+2020) offered a method for anomaly identification on time-
+series data that makes use of machine learning on the"
+34,"sensor data from the vessel to enable predictive 
+maintenance on the main engine. The research (Ayvaz and 
+Alpay 2021) established a data-driven prognostic 
+maintenance solution for manufacturing assembly lines 
+was developed. The system is designed to utilize the real-
+time data collected by IoT sensors to detect signs of 
+probable problems using machine learning techniques.  
+ 
+3. METHODOLOGY 
+ 
+The Predictive Maintenance is a useful maintenance"
+35,"device that anticipates problems by predicting the 
+standards of certain quantities that illustrate a system 
+using specific numerical models. The fundamental PM 
+framework is as follows: 
+ 
+Instantaneous measurement of physical quantities. 
+ 
+Parameters that may be measured or estimated are 
+estimated at time t + dt. 
+ 
+Detection of the abnormal or malfunctioning state 
+of the system. 
+ 
+Preventative and corrective measures are planned 
+for implementation before a system's critical"
+36,"for implementation before a system's critical 
+condition is reached. 
+ 
+The following are some examples of predictive 
+maintenance: 
+ Deterioration of bearings or mechanical part 
+deformation can cause a machine to vibrate. 
+ When a motor's temperature and drown current start 
+to rise, it might be a sign that friction and or 
+mechanical failure are reducing its efficiency. 
+Proceedings on Engineering Sciences, Vol. 05, No. S1 (2023) 55-62, doi: 10.24874/PES.SI.01.007 
+ 
+ 
+57"
+37,"57 
+ The many particles in a lubricant may be used to 
+determine how well rubbing contact components are 
+holding up. It is feasible to test the lubricating oils 
+composition and assess the machine's health using 
+the right sensors. 
+ 
+The estimation of the parameters forms the foundation 
+of the initial stage of these operations. The technique 
+can produce accurate projections based on PM. It will 
+be challenging to spot abnormalities and decide on"
+38,"maintenance and repair if the prediction algorithms 
+generate inaccurate predictions or with too wide of 
+reliability ranges. The forecasts often fall into one of 
+two categories: Predicting trends across time and 
+comparing different periods. 
+ 
+3.1. Cross-Sectional Prediction 
+ 
+In cross-sectional forecasting, factors for which there are 
+no data are estimated using measurements on other 
+variables that have been observed. By measuring the"
+39,"electric current that flows through an electronic component 
+while it is used in a specific environment, for instance, it 
+may be feasible to estimate how long it will last. 
+ 
+3.2. Predictions Based on Time Series 
+ 
+Predicting time series is the process of estimating variables 
+that vary eventually. The parameters are measured up to 
+time instantaneous t, and the forecasted variable is at time 
+immediate t + dt. It is characteristically feasible to anticipate"
+40,"future values by taking regular intervals of measuring the 
+variable of interest. The most straightforward illustration is 
+the estimation of our cell phones' remaining battery life, 
+which is based on our usage patterns and past consumption. 
+It is common practice to identify: Trends or a long-term 
+increase (or decrease) in values. 
+ The seasonal phenomena or the phenomena that 
+determine value changes through time with a 
+constant cycle of the same length."
+41,"constant cycle of the same length. 
+ Cyclical phenomena create variations in values that 
+don't always last for the same amount of time, or that 
+aren't periodic. 
+ 
+The nature of the relationship between the measured 
+numbers is one of the most crucial concepts to comprehend 
+while interpreting data. This may be accomplished by using 
+graphic visualization with dispersed plots to show how the 
+data are interdependent. The idea behind linear regression is"
+42,"that the behavior of the evaluating phenomenon is linear. 
+Analyzing the residuals is an easy technique to determine 
+whether the signal we wish to anticipate is linear or includes 
+data not included in our prediction model. 
+ 
+3.3. Investigation of the residuals 
+ 
+The residuals represent the discrepancy among the size's 
+observed variables and those derived by fitting the 
+prediction line. 
+𝑓𝑗= 𝑥𝑗−𝑥′𝑗  
+ 
+(1) 
+Here 𝑓𝑗 is the measurement's residual, 𝑥𝑗 is the value"
+43,"that was measured, and 𝑧′𝑗= 𝑛′𝑠𝑗+ 𝑟′ 0 is the 
+variable that was calculated at time𝑠𝑗. The least 
+square approach is used to determine the coefficients 
+m and q. Autocorrelation is a useful tool for 
+determining either the generated regression model 
+meets the signal to be forecasted. By counting the 
+number of residuals whose values fall inside the 
+interval, it is possible to compute the autocorrelation 
+of the residues obtained above: 
+𝐼𝑛𝑡= ±
+2
+√𝑀   
+ 
+ 
+              (2)"
+44,"𝐼𝑛𝑡= ±
+2
+√𝑀   
+ 
+ 
+              (2) 
+Where M is the total value of capacity. Typically, it is 
+assumed that if >95% of the residuals are contained 
+within the ±𝐼𝑛𝑡, then the noise may be classified as 
+white noise since there is no correlation between the 
+residuals. This method enables the development of 
+algorithms for signal prediction using linear regression, 
+is helpful for predictive maintenance, and automatically 
+checks any alterations of the system being observed in"
+45,"real-time. The test of residuals may also be used to 
+determine whether linear regression is the better option 
+for the desired prediction model. 
+ 
+3.3. Predictive maintenance using machine learning 
+A plan outlining the steps and technical tasks needed to 
+deploy PM is shown in Figure 2. The data gathered by 
+the I4.0 and MES machine layers may be used to 
+execute the Machine Learning phase of the PM (Figure 
+2). Three crucial data sources must be located to"
+46,"determine if an issue is suitable for a predictive 
+maintenance solution. 
+ 
+ 
+Figure 1. Flowchart of predictive maintenance 
+Shrivastava et al., Integrating sensor data and machine learning for predictive maintenance in industry 4.0 
+58 
+3.4. Problem history 
+ 
+In predictive maintenance systems, error occurrences 
+are often quite infrequent. However, the algorithm must 
+be trained to learn both the standard functioning system 
+and the fault system to build predictive models that"
+47,"forecast failures. Therefore, the training data must have 
+adequate several instances in each category. 
+ 
+3.4. Repair and maintenance history 
+ 
+The thorough asset of maintenance history, which 
+includes data on replacement components, completed 
+preventive maintenance chores, etc., is a crucial data 
+source for solutions including predictive maintenance. 
+ 
+3.5. Repair and maintenance history 
+ 
+It is assumed that a machine's health condition"
+48,"It is assumed that a machine's health condition 
+deteriorates with time to calculate how many days (or 
+hours, kilometers, etc.) it will endure before breaking 
+down. Therefore, the data must include time-varying 
+functions that develop aging patterns or other 
+abnormalities that could lead to a decline in 
+performance. 
+ 
+ It is important to carry out certain pre-processing 
+processes to get the information into the format 
+needed to make the functions that will be contained"
+49,"in the ml techniques. 
+ The first is to split the time required for data 
+gathering into discrete units, with every record 
+history representing a discrete unit of time for a 
+given asset. The general data model may be: 
+ Maintenance history: This is the documentation of 
+the upkeep tasks completed. Untreated protection 
+data is often linked to an asset ID and a timestamp 
+that contains details on the maintenance tasks 
+completed at that moment. Maintenance actions"
+50,"completed at that moment. Maintenance actions 
+need to be converted from unprocessed data each 
+representing a particular kind of maintenance work, 
+into category columns for time, maintenance, and 
+asset IDs actions that will be included in the basic 
+data structure for maintenance records. 
+ Failure Records: These are records that pertain to the 
+evaluation aim, eg., failure or faults. They might be 
+particular error messages or errors that are caused by"
+51,"particular operational circumstances. In other 
+instances, the data contains many error codes, some 
+of which are associated with important defects. 
+Others are often used to develop functions that can 
+be associated with failures because not all faults are 
+the target of an estimate. The columns for time fault 
+and asset ID, or cause for fault if a pattern is 
+provided, will be included in the base data format 
+for failure records. 
+ Machine 
+specifications: 
+Preferably 
+real-time"
+52,"specifications: 
+Preferably 
+real-time 
+monitoring information on the data's operational 
+circumstances. 
+ Machine and operator information: the assets 
+controlled by a certain operator, as well as the 
+attributes of the assets and the operator, may be 
+identified by combining this data in a plan. 
+ 
+Table 1. Feature data set. 
+Features 
+Significance 
+X Current 
+X-axis absorption of current. 
+Y Current 
+Y-axis absorption of current. 
+Z Current 
+Z-axis absorption of current. 
+Spindle Velocity"
+53,"Z-axis absorption of current. 
+Spindle Velocity 
+Rate of spindle rotation 
+Spindle power 
+The spindle's sucked-up energy 
+Spindle position 
+Angle of the spindle 
+X Speed 
+Axis X Velocity 
+Y Speed 
+Axis Y Velocity 
+Z Speed 
+Axis Z Velocity 
+StatoRot 
+Spindle rotor functionality (c). 
+Timestamp 
+Data Collected 
+Machine 
+Mechanics in Action 
+Location Variation X 
+Ratio of actual to nominal X-
+axis position 
+Location Variation Y 
+Ratio of actual to nominal Y-
+axis position 
+Location Variation Z"
+54,"axis position 
+Location Variation Z 
+Ratio of actual to nominal Z-
+axis position 
+ 
+A list of data is presented in Table I together with the 
+statoRot status value, which serves as the variable for 
+machine condition in the outcome section. Designing 
+the functions is the initial stage in modeling. 
+Conceptually speaking, the concept of generating 
+functions entails leveraging past data amassed up to 
+that point to describe and abstract the integrity status"
+55,"of a machine at a specific moment. However, the 
+approaches for designing the functions that are given 
+here can be utilized as a starting point for developing 
+functions. The creation of delay (lag) functions from 
+data sources, such as timestamps, as well as standing 
+operations from static sources of data, with instances 
+from the illustrative use cases, is required in the 
+following. 
+The 
+chronological 
+data 
+used 
+for 
+preventative maintenance often include timestamps"
+56,"that show when each data point was collected. A 
+window with the size ""W"" that corresponds to the 
+several time units for which we wish to evaluate the 
+chronological aggregations is chosen for each asset 
+record. The W periods before the record's creation 
+date are then used to construct the aggregate 
+sequencing 
+functions. 
+Examples 
+of 
+sequential 
+aggregations include peaks, trend changes, and level 
+changes using methods that identify anomalies, mean,"
+57,"and outliers based on normal deviations, increasing 
+total observations, maximum and minimum window 
+values, etc. 
+ 
+Proceedings on Engineering Sciences, Vol. 05, No. S1 (2023) 55-62, doi: 10.24874/PES.SI.01.007 
+ 
+ 
+59 
+3.5. Enhanced naïve bayes artificial neural 
+network (ENBANN) 
+ 
+The Enhanced Naive Bayesian method was developed 
+based on Bayesian decision theory. The variables of the 
+dependent and prior probabilities are calculated based"
+58,"on historical data. The Bayesian formula is then used to 
+calculate the posterior probability distribution, and the 
+likelihood that an event belongs to a certain category 
+may be detected by comparing the possibilities. The 
+basic framework is 
+𝑂(𝑌) = 𝑂(𝐷)
+𝑂(𝐶)
+𝑂(𝑌), 
+ 
+ 
+              (3) 
+Where O is the probability. We assume that there are m 
+judgment 
+categories 
+𝐷= {𝐷1,𝐷2, … . . 𝐷𝑛 } 
+and 
+n 
+characteristic features 𝑌= {𝑌1,𝑌2, … . . , 𝑌𝑚} in each fire"
+59,"dataset. By assuming that 𝑂(𝑌) is constant over all 
+possible categories, we may arrive at the naive Bayesian 
+classification model. 
+ 
+𝐷𝑀𝐴(𝑊) = 𝑎𝑟𝑔𝑚𝑎𝑥𝑜(𝐷𝑗) ∏𝑚
+𝑙=1
+𝑜(𝐷𝑗)             (4)
+ 
+ 
+ 
+ 
+Here 𝑜(𝐷𝑗) is the expected value of the choice 
+categories and (𝐷𝑗) is the possibility that 𝑊𝑙 has the 
+value x if Ci is the decision category. For every given 
+dataset, Y, the prior probability of assigning it to one of 
+the classes 𝛶= {𝑧1,𝑧2, … . . 𝑧𝑚} is obtained from the"
+60,"data itself. The conditional possibility of every feature is 
+compounded 
+under 
+every 
+option 
+category𝐷𝑗. 
+Multiplying the prior possibility 𝑜(𝛶)by the conditional 
+possibility 𝑜(𝛶)yields the posterior probability𝑜(𝛶). 
+The highest posterior probability is chosen as the class 
+the item belongs to 𝑜(𝛶)𝑚𝑎𝑥. 
+ 
+The ENBANN is a collection of neurons with 
+unidirectional links between them that may mimic the 
+brainpower capacity for pattern recognition and"
+61,"brainpower capacity for pattern recognition and 
+association learning in data. Each neuron 𝑗 has an 
+activated function 𝜃𝑖 associated with it, and each 
+connection among neurons 𝑗,𝑖 has a weight 𝑢𝑗𝑖 given to 
+it that regulates how much impact neuron j has on 
+neuron𝑖. The weighted connections between the 
+neurons, which stand in for the fundamental processing 
+units of an ENBANN, enable the modeling of 
+complicated interactions. Normally, the neurons are"
+62,"arranged in layers, and each layer's neurons are 
+connected directly to the layers above it (Figure 2). The 
+levels in between are referred to as ""hidden layers,"" 
+while the initial layer is well-known as the ""input layer"" 
+and the final one as the ""output layer."" The initial hide 
+layer receives the input information from the input 
+layer, where it aggregates and transforms them as 
+follows: 
+𝑛𝑒𝑡𝑖= ∑𝑗∈𝑂𝑖
+𝑢𝑗𝑖𝑃𝑗  
+ 
+(5) 
+Where 𝑂𝑖 is the collection of neurons that had linked to"
+63,"neuron i, 𝑃𝑗 is the output of neuron I, and wij is the 
+weight of the link connecting neuron 𝑗 and i. The 
+following formula is used to determine a neuron's 
+output. 
+𝑃𝑗=  𝜙 (𝑛𝑒𝑡𝑗)  
+ 
+ 
+              (6) 
+Where 𝜙 represents neuron 𝑗 is an activated function. 
+The 
+hyperbolic 
+tangent 
+function, 
+with 
+the 
+formula𝑒(𝑦) =
+𝑓𝑦−𝑓−𝑦
+𝑓𝑦+𝑓−𝑦, is a typical activation function. 
+This function is very helpful since it may be both 
+continual and distinct, which are requirements for"
+64,"determining the network error gradient. The neurons in 
+the subsequent layer get each neuron's output after that. 
+This process is continued for each additional layer until 
+the network's output layer is reached. The output layer's 
+output corresponds to the network's overall output. 
+ 
+ 
+Figure 2. Three layers of ANN 
+ 
+An ENBANN connection weights must be changed to 
+simulate non-linear relations. The usual method for 
+doing this entails two steps. Back propagation is used to"
+65,"determine each neuron's error signal for a specific 
+observation in the initial step. The error function 
+determines the error signal. Regression's error function 
+is written as 𝐹=
+1
+2 ∑𝑚
+𝑗=1
+(𝑠𝑖−𝑃𝑗)2, where m is the 
+overall number of goal values, 𝑃𝑗 is the output neuron j 
+and 𝑠𝑖 is the goal value. The error function leads to the 
+calculation of the error signal as follows: 
+𝛿𝑖= {𝜙′(𝑛𝑒𝑡𝑖)(𝑃𝑖−𝑠𝑖)    𝑖𝑓 𝑖𝑠 𝑎𝑛 𝑜𝑢𝑡𝑝𝑢𝑡 𝑛𝑒𝑢𝑟𝑜𝑛  𝜙′(𝑛𝑒𝑡𝑖) ∑𝑙
+𝛿𝑙𝑢𝑖𝑙   𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒  
+ 
+ 
+(7)"
+66,"𝛿𝑙𝑢𝑖𝑙   𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒  
+ 
+ 
+(7) 
+Here 𝑃𝑖 is the neuron 𝑖 output, 𝑠𝑖 is the neuron j's target 
+value, 𝑢𝑖𝑙 is the weight of the link among neurons j and 
+k, k is the neuron error signal, 𝑛𝑒𝑡𝑖 is the input from the 
+network system to neuron j, and 𝜙
+′ is the derived 
+activated function  
+Shrivastava et al., Integrating sensor data and machine learning for predictive maintenance in industry 4.0 
+60 
+∆𝑢𝑗𝑖= −𝜂
+𝜕𝐹
+𝜕𝑢𝑗𝑖= −𝜂𝛿𝑖𝑃𝑗   
+ 
+              (8) 
+The linked weights are modified by use of Training"
+67,"Algorithm in the second phase. Where 𝑢𝑖𝑙  is the weight 
+of the connection among neuron j and neuron 𝑖, E stands 
+for error function, 𝑃𝑗 for neuron j output, and 𝑖 for 
+neuron 𝑖 error signal. Continue all steps till a 
+termination requirement is satisfied. To enhance the 
+network's training, several gradient expansions and 
+modifications have been suggested. To increase the 
+training's resistance to noise, the error gradients are 
+often added across a ""mini-batch"" of data. The"
+68,"often added across a ""mini-batch"" of data. The 
+cumulative modifications are then used to modify the 
+connection weights. Also, utilizing an accelerated 
+gradient while modifying the connection weights may 
+significantly enhance training results. 
+𝛿𝑖= {𝜙′(𝑛𝑒𝑡𝑖)(𝑃𝑖−𝑠𝑖)    𝑖𝑓 𝑖𝑠 𝑎𝑛 𝑜𝑢𝑡𝑝𝑢𝑡 𝑛𝑒𝑢𝑟𝑜𝑛  𝜙′(𝑛𝑒𝑡𝑖) ∑𝑙
+𝛿𝑙𝑢𝑖𝑙   𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒   
+ 
+ 
+(9) 
+Where 𝑃𝑖 is the neuron 𝑖 output, 𝑠𝑖 is the neuron j's 
+target value, 𝑢𝑖𝑙 is the weight of the link between"
+69,"neurons j and k, k is the neuron error signal, 𝑛𝑒𝑡𝑖 is the 
+input from the network system to neuron j, and 𝜙
+′ is the 
+derived activated function  
+∆𝑢𝑗𝑖= −𝜂
+𝜕𝐹
+𝜕𝑢𝑗𝑖= −𝜂𝛿𝑖𝑃𝑗   
+ 
+            (10) 
+The linked weights are modified by use of training 
+algorithm in the second phase. Where 𝑢𝑖𝑙  is the weight 
+of the link between neuron j and neuron 𝑖, E stands for 
+error function, 𝑃𝑗 for neuron 𝑗 output, and 𝑖 for neuron 𝑖 
+error signal. Continue all steps till a termination"
+70,"requirement is satisfied. To enhance the network's 
+training, some gradient expansions and modifications 
+have been suggested. To increase the training's 
+resistance to noise, the error gradients are often added 
+across a ""mini-batch"" of data. The cumulative 
+modifications are then used to modify the connection 
+weights. Also, utilizing an accelerated gradient while 
+modifying the connection weights may significantly 
+enhance training results. 
+ 
+4. RESULT AND DISCUSSION 
+ 
+The 
+aforementioned"
+71,"4. RESULT AND DISCUSSION 
+ 
+The 
+aforementioned 
+techniques 
+for 
+predictive 
+maintenance have been applied to actual cutting-edge 
+woodworking technology that is a machining center for 
+the firewood industry. The primary goals of the 
+suggested test are to assess the suggested method for 
+machine learning PM of the machine using analysis of 
+Fingerprints, which includes vibration data analysis to 
+gauge spindle health status and drive data analysis for"
+72,"axis monitoring. A data set of 530731 data reading on 
+15 distinct machine features were adjusted for the 
+suggested feature set, which is presented in Table I, and 
+the data was acquired from the tried and true cutter in 
+real-time. The method of gathering data takes into 
+account several data sources, and the following general 
+architecture was created: 
+ Flight Recorder: The MCM machine tool is 
+equipped with an industrial PC. It's having"
+73,"equipped with an industrial PC. It's having 
+conversations with different parts of the system to 
+get the information it needs for the study. 
+ IT Accelerometer: A vibration data-collecting 
+accelerometer with an interface for simple data 
+export, 
+the 
+Information 
+Technological 
+Accelerometer may be attached to the spindle head 
+of MCM machines. 
+As for the introduction of the top-level architecture: 
+ The computer hosting the analysis of data software"
+74,"that can be used is known as the data analysis unit. 
+ Simulation Unit is a Machine Learning Studio-based 
+Azure Cloud architecture that houses the ML 
+software. 
+ 
+The three distinct data sources for the Flight Recorder 
+system are listed below. 
+ 
+Drive 
+data: 
+Through 
+a 
+D.Electron-developed 
+communication protocol, they are sampled in real-time 
+by the CNC and prepared accessible to the Flight 
+Recorder. The CNC at the moment of sampling"
+75,"Recorder. The CNC at the moment of sampling 
+associates this data with a time reference (timestamp). 
+ 
+Input/output signal: Similar to drive data, they are 
+collected in actual time by the machine PLC and made 
+available to the Flight Recorder. 
+ 
+Vibration data: To effectively monitor the spindle unit, 
+vibration analysis in the frequency domain is carried 
+out. 
+The 
+Flight 
+Recorder 
+needs 
+a 
+specialized 
+sensor/electronic system that, after each fingerprinting"
+76,"or operational incident, provide both raw data about the 
+trend in the vibration spectrum and an assessment of 
+how much the detected spectrum deviates from the 
+typical spectrum contain under ideal functioning 
+conditions. 
+ 
+The suggested architecture was used to analyze all the 
+data obtained, with 40% of the data set serving as a 
+training set and the remaining 60% being used to assess 
+the findings. Using various metrics, including accuracy,"
+77,"precision, and recall, we compared some of the current 
+approaches, such as CNN, RNN, and A2LSTM, with 
+our novel approach, ENBANN. 
+ 
+Predictive maintenance accuracy refers to a model's or 
+system's capacity to correctly forecast the occurrence of 
+equipment faults or maintenance requirements. The 
+comparison of accuracy between the current and our 
+suggested methods is shown in Figure 3 and Table 2. 
+And it depicts that our proposed method is higher than 
+other existing methods."
+78,"other existing methods. 
+ 
+ 
+Proceedings on Engineering Sciences, Vol. 05, No. S1 (2023) 55-62, doi: 10.24874/PES.SI.01.007 
+ 
+ 
+61 
+ 
+Figure 3. The comparison of accuracy between the 
+current and our suggested methods 
+ 
+Table 2. Comparison of accuracy. 
+Methods 
+Accuracy (%) 
+CNN (Silva and Capretz 2019) 
+89.08 
+RNN (Rivas et al., 2020) 
+91.91 
+A2-LSTM (Jiang et al., 2022) 
+85.75 
+ENBANN [Proposed] 
+95 
+ 
+The capacity of a predictive maintenance model or"
+79,"system to precisely identify true positive situations, or 
+in other words, to properly forecast equipment failures 
+or maintenance requirements, is referred to as precision 
+in predictive maintenance. The percentage of optimistic 
+forecasts that come true positively is measured by this 
+performance statistic. The comparison of precision 
+between the current and our suggested methods is 
+shown in Figure 4 and Table 3. And it depicts that our"
+80,"proposed method is higher than other existing methods. 
+ 
+ 
+ 
+Figure 4. The comparison of precision between the 
+current and our suggested methods 
+ 
+Table 3. Comparison of precision. 
+Methods 
+Precision (%) 
+CNN (Silva and Capretz 2019) 
+85.71 
+RNN (Rivas et al., 2020) 
+91.75 
+A2-LSTM (Jiang et al., 2022) 
+92.02 
+ENBANN [Proposed] 
+94 
+Recall, often referred to as sensitivity or the real positive 
+rate is a performance indicator used in predictive"
+81,"maintenance that assesses a model's accuracy in identifying 
+all positive instances, particularly the percentage of actual 
+equipment failures or maintenance requirements that are 
+accurately anticipated. The comparison of recall between 
+the current and our suggested methods is shown in Figure 5 
+and Table 4. And it depicts that our proposed method is 
+higher than other existing methods. 
+ 
+ 
+Figure 5. The comparison of recall between the current 
+and our suggested methods"
+82,"and our suggested methods 
+ 
+Table 4. Comparison of recall. 
+Methods 
+Recall (%) 
+CNN (Silva and Capretz 2019) 
+92.71 
+RNN (Rivas et al., 2020) 
+89.85 
+A2-LSTM (Jiang et al., 2022) 
+81.01 
+ENBANN [Proposed] 
+95 
+ 
+5. CONCLUSION 
+ 
+This research presents a novel ENBANN strategy on a 
+cutting machine based on PM machine learning. Given the 
+growing necessity to reduce downtime and related costs, 
+PM is an effective technique for handling maintenance"
+83,"difficulties. The approach has been used in an experimental 
+setting using a real-world industrial group as an example, 
+yielding precise estimates. Data analysis tool offers access 
+to data that has been collected by a variety of sensors, 
+machine PLCs, and protocols for communication. By 
+training an ENBANN technique on Azure Machine 
+Learning Studio, the PM methodology enables the adoption 
+of dynamic decision rules for maintenance management."
+84,"The first results show that the approach works as intended 
+by accurately predicting different states of the machine with 
+a high accuracy of 95% using a dataset of 530731 data 
+readings on fifteen dissimilar machine variables obtained in 
+actual duration from the tested cutting machine. The main 
+spindle rotor state prediction accuracy achieved by the 
+papers is high, and the basic cloud architecture for Industry 
+4.0 is shown. Additionally, ML approaches are used to a"
+85,"factual data set from machines in the field. Future studies 
+will concentrate on improving data reliability, exploring 
+other failure situations, and studying an expanded range of 
+features, especially in the frequency domain. 
+Shrivastava et al., Integrating sensor data and machine learning for predictive maintenance in industry 4.0 
+62 
+References: 
+ 
+Ayvaz, S., & Alpay, K. (2021). Predictive maintenance system for production lines in manufacturing: A machine 
+learning 
+approach 
+using 
+IoT"
+86,"learning 
+approach 
+using 
+IoT 
+data 
+in 
+real-time. Expert 
+Systems 
+with 
+Applications, 173, 
+114598. 
+https://doi.org/10.1016/j.eswa.2021.114598 
+Benardos, P. G., & Vosniakos, G. C. (2003). Predicting surface roughness in machining: a review. International journal 
+of machine tools and manufacture, 43(8), 833-844. https://doi.org/10.1016/S0890-6955(03)00059-2 
+Butte, S., Prashanth, A. R., & Patil, S. (2018, April). Machine learning based predictive maintenance strategy: a super"
+87,"learning approach with deep neural networks. In 2018 IEEE Workshop on Microelectronics and Electron Devices 
+(WMED) (pp. 1-5). IEEE. https://doi.org/10.1109/WMED.2018.8360836 
+Calabrese, M., Cimmino, M., Manfrin, M., Fiume, F., Kapetis, D., Mengoni, M., ... & Toscano, G. (2019, August). An 
+event-based machine learning framework for predictive maintenance in Industry 4.0. In International Design"
+88,"Engineering Technical Conferences and Computers and Information in Engineering Conference (Vol. 59292, p. 
+V009T12A037). American Society of Mechanical Engineers. https://doi.org/10.1115/DETC2019-97917 
+Cheng, J. C., Chen, W., Chen, K., & Wang, Q. (2020). Data-driven predictive maintenance planning framework for 
+MEP components based on BIM and IoT using machine learning algorithms. Automation in Construction, 112, 
+103087. https://doi.org/10.1016/j.autcon.2020.103087"
+89,"Çınar, Z.M., Abdussalam Nuhu, A., Zeeshan, Q., Korhan, O., Asmael, M. and Safaei, B., 2020. Machine learning in 
+predictive maintenance towards sustainable smart manufacturing in industry 4.0. Sustainability, 12(19), p.8211. 
+https://doi.org/10.3390/su12198211 
+Daily, J., & Peterson, J. (2017). Predictive maintenance: How big data analysis can improve maintenance. Supply Chain 
+Integration Challenges in Commercial Aerospace: A Comprehensive Perspective on the Aviation Value Chain, 267-"
+90,"278. 10.1007/978-3-319-46155-7_18 
+Erbiyik, H. (2022). Definition of Maintenance and Maintenance Types with Due Care on Preventive Maintenance. 
+10.5772/intechopen.106346 
+Jiang, Y., Dai, P., Fang, P., Zhong, R. Y., Zhao, X., & Cao, X. (2022). A2-LSTM for predictive maintenance of 
+industrial 
+equipment 
+based 
+on 
+machine 
+learning. Computers 
+& 
+Industrial 
+Engineering, 172, 
+108560. 
+https://doi.org/10.1109/SNPD.2019.8935752. https://doi.org/10.1109/SNPD.2019.8935752"
+91,"Makridis, G., Kyriazis, D., & Plitsos, S. (2020, September). Predictive maintenance leveraging machine learning for 
+time-series forecasting in the maritime industry. In 2020 IEEE 23rd International Conference on Intelligent 
+Transportation Systems (ITSC) (pp. 1-8). IEEE. https://doi.org/10.1109/ITSC45102.2020.9294450 
+Nacchia, M., Fruggiero, F., Lambiase, A., & Bruton, K. (2021). A systematic mapping of the advancing use of machine"
+92,"learning techniques for predictive maintenance in the manufacturing sector. Applied Sciences, 11(6), 2546. 
+https://doi.org/10.3390/app11062546 
+Pech, M., Vrchota, J., & Bednář, J. (2021). Predictive maintenance and intelligent sensors in smart factories. 
+Sensors, 21(4), 1470. https://doi.org/10.3390/s21041470 
+Rivas, A., Fraile, J. M., Chamoso, P., González-Briones, A., Sittón, I., & Corchado, J. M. (2020). A predictive"
+93,"maintenance model using recurrent neural networks. In 14th International Conference on Soft Computing Models in 
+Industrial and Environmental Applications (SOCO 2019) Seville, Spain, May 13–15, 2019, Proceedings 14 (pp. 261-
+270). Springer International Publishing. 10.1007/978-3-030-20055-8_25 
+Silva, W., & Capretz, M. (2019, July). Assets predictive maintenance using convolutional neural networks. In 2019"
+94,"20th IEEE/ACIS International conference on software engineering, artificial intelligence, networking and 
+parallel/distributed computing (SNPD) (pp. 59-66). IEEE. https://doi.org/10.1109/SNPD.2019.8935752 
+Utting, M., Pretschner, A., & Legeard, B. (2012). A taxonomy of model‐ based testing approaches. Software testing, 
+verification and reliability, 22(5), 297-312. https://doi.org/10.1002/stvr.456"
+95,"Zenisek, J., Holzinger, F., & Affenzeller, M. (2019). Machine learning-based concept drift detection for predictive 
+maintenance. Computers & Industrial Engineering, 137, 106031. https://doi.org/10.1016/j.cie.2019.106031 
+Zhang, W., Yang, D. and Wang, H., 2019. Data-driven methods for predictive maintenance of industrial equipment: A 
+survey. IEEE Systems Journal, 13(3), pp.2213-2227. https://doi.org/10.1109/JSYST.2019.2905565"
+96,"Zonta, T., Da Costa, C. A., da Rosa Righi, R., de Lima, M. J., da Trindade, E. S., & Li, G. P. (2020). Predictive 
+maintenance in Industry 4.0: A systematic literature review. Computers & Industrial Engineering, 150, 106889. 
+https://doi.org/10.1016/j.cie.2020.106889 
+ 
+Manish Shrivastava 
+Vivekananda Global University,  
+Jaipur, India 
+manish.shrivastava@vgu.ac.in 
+ORCID 0000-0003-2494-4113 
+Priyank Singhal 
+Teerthanker Mahaveer University, 
+ Moradabad, Uttar Pradesh, India"
+97,"Moradabad, Uttar Pradesh, India 
+priyanksinghal1@gmail.com 
+ORCID 0000-0002-7380-4902 
+Bhuvana J. 
+Jain (deemed to be) University, 
+Bangalore, India 
+j.bhuvana@jainuniversity.ac.in 
+ORCID 0000-0002-8372-6311 
+ 
+Predictive Maintenance 
+with ST sensors
+STMicroelectronics
+Noor AIZAD 
+MEMS Marketing manager
+Evaluation of the remaining life 
+of an 
+equipment based on the 
+BIG DATA
+Anomaly detection(what, how, where) 
+and 
+classification"
+98,"and 
+classification
+A solid path, step by stepFrom condition monitoring to predictive maintenanceCondition Based Monitoring
+Predictive Maintenance
+From condition monitoring to predictive maintenance
+Data logging
+from one or multiple nodes
+Data logging
+from one or multiple 
+Sensing, sampling rate, preprocessing, FFTAI and Machine LearningAdvanced data processing with AI and 
+combining with Big Data
+preprocessing, FFT
+AI and Machine Learning
+Advanced data processing 
+with AI and"
+99,"Advanced data processing 
+with AI and 
+combining with Big Data
+2
+TSC21x/TSC201x with highside shunt
+TSZ12x with low side shunt
+Sensors for Predictive Maintenance
+Machine
+conditions
+Time
+Conditions
+start to 
+change
+Power
+days
+Smoke
+minutes
+monthsUltrasound
+Ultrasoundweeks
+Noise
+Vibration
+VibrationThe curve slope depends on the life-
+cycle of the 
+equipment
+Failurecycle of the 
+equipment
+FailureTemperature
+Temperature
+3"
+100,"equipment
+FailureTemperature
+Temperature
+3
+Example of condition monitoring Any parameter deviation is an indicator of potential failure
+Any parameter deviation is an indicator of potential failureImbalance
+LoosenessMis
+-alignment
+Gear Mesh-alignmentt
+Gear Mesh
+tVibration captureProcessing
+Secure connections
+Connectivity
+Secure connectionsFunctions to enable monitoring
+ConnectivityTime domainFrequency domainFFT
+Functions to enable monitoring
+Time domain
+Frequency domain
+FFT
+4"
+101,"Time domain
+Frequency domain
+FFT
+4
+ST key sensor components for 
+predictive maintenance
+predictive maintenance
+Industrial sensors for vibration analysis
+sensors and defects over bandwidth
+kHz
+2
+>50
+5
+10IIS3DWB
+IIS3DWBMechanical Vibration / Sound analysis (1 
+÷
+10KHz) IMP23ABSUInertial
+IMP34DT05
+Acoustic
+IMP34DT05
+AcousticUse casesISM330DHCXIIS2DH
+UnbalanceLooseness
+MisalignmentRoller Bearings
+GearingCavitation
+Bearings
+Gear boxes
+Lubrication Fan bearings
+Venting occlusion
+Cooling failure"
+102,"Venting occlusion
+Cooling failure
+Ultrasound analysis
+Bearings
+Gear boxes
+Lubrication 
+Fan bearings
+Venting occlusion
+Cooling failure
+Ultrasound analysis
+6
+•
+High Acoustic Overload Point of 130 
+dBSPL
+•
+Nominal sensitivity 
+-
+38dBV ±
+1dB @ 94 dBSPL
+•
+64 dB SNR
+•
+Up to 80kHz of ultrasound frequency response
+•
+-
+40 to 85 deg temperature rangeIMP23ABSU
+High
+-
+performance analog microphone up to 80kHzKey Features
+*) Reference AZOsensors.com
+*) Reference AZOsensors.com20Hz20 kHz
+100 kHz"
+103,"*) Reference AZOsensors.com20Hz20 kHz
+100 kHz
+Human hearing
+Ultrasound
+”Acoustic sound within the 
+human hearing range.
+Most background noise 
+in plants 
+and other industrial facilities, including turbines, motors, and compressors, 
+falls within this frequency range ” *
+”Acoustic sound beyond the 
+human hearing range. 
+Very few background noise will occur 
+on this area
+. Leaking gas produces 
+acoustical sound within this range” 
+*
+” 
+*Package: RHLGA metal cap3.6 x 2.6 x 1mm"
+104,"*
+” 
+*Package: RHLGA metal cap3.6 x 2.6 x 1mm
+Package: RHLGA metal cap
+3.6 x 2.6 x 1mm
+7
+Ultrasound microphone 
+for air and gas leakages
+• N2 or air leaks are common on tools with 
+large number of pneumatic valves
+• Gas leak detectors are widely used in 
+chemical industries where the presence of 
+chemical fumes can impact the well-
+functioning of valves. Monitoring the condition 
+of every valve is very challenging.
+• Gas leak detectors with ultra-sound"
+105,"• Gas leak detectors with ultra-sound 
+microphones are a “non-intrusive” monitoring 
+method  
+8
+STWIN
+Pneumatic valves
+rack
+IIS3DWB
+Ultra wide bandwidth vibration sensor•
+3
+-axis accelerometer/vibration sensor•
+±
+2/± 4/± 8/± 16g full scale•
+Bandwidth 6.3 kHz (
+-
+3dB) •
+26.7kHz ODR SPI interface
+•
+3kbyte of FIFO
+•
+Noise density 75 µg/√Hz (60 single
+-
+axis mode)•
+Operating temperature 
+-
+40 to 105 degreesKey Features
+Key FeaturesPackage: 2.5x3x0.83 mm
+Package: 2.5x3x0.83 mm
+9
+•"
+106,"Package: 2.5x3x0.83 mm
+9
+•
+High accuracy, stability and linearity over temperature and time •
+Axel Noise Density 60 µg/√Hz (
+typ
+) – ODR up to 6.6kHz •
+Gyro Offset vs T 
+±
+0.005 dps
+/
+°C (typ)
+•
+Gyro Bias Instability  3
+°
+/hr( typ) •
+Rate Noise Density 5 
+mdps
+/√Hz (typ
+)
+•
+Programmability & digital features •
+Programmable Machine Learning Core & Finite State Machines to integrate AI
+•
+9 kB Embedded FIFO
+•
+Sensor Hub
+•
+Configurability •
+Angular rate range:  from 
+±
+125dps up to ±
+4000 dps
+•"
+107,"±
+125dps up to ±
+4000 dps
+•
+Axel Full Scale: from 
+±
+2g up to ±
+16g•
+Low power and high
+L
+performance modes•
+Extended operating temperature range from -
+40 to +105 °
+C ISM330DHCX
+6
+-axis IMU with Machine Learning Coreaest
+10-
+in
+-class accuracy 6-axis IMU with Machine Learning CoreLGA 14L 2.5 x 3 x 0.86 mm
+LGA 14L 
+2.5 x 3 x 0.86 mm
+ST sensors with 
+Machine Learning Core (MLC)
+Machine Learning Core (MLC)
+Typical sensor data transfer for main CPU
+12Sensor
+AccelerometerGyroscope"
+108,"12Sensor
+AccelerometerGyroscope
+External sensorsSensor Data
+Gyroscope
+Main processor
+Motionand environment data
+Main processor
+Motion and 
+environment 
+data
+-
+sensor classification engine based on Decision Tree logic
+Machine Learning Core
+MLC is able to 
+13increase accuracy 
+with a 
+better context detectability, 
+offloading the main processor while the built
+-
+in sensors identify motion dataSensor with Machine Learning CoreAccelerometerResults
+GyroscopeExternal 
+sensorsDigital Pre"
+109,"GyroscopeExternal 
+sensorsDigital Pre
+-defined Features
+FiltersMeta
+-
+classifierSensor Data
+Decision TreeComputation Blockdefined Features
+FiltersMain 
+processor-classifier
+Motion sensing
+Decision Tree
+Computation Block
+Main 
+processor
+Motion 
+sensing
+Moving from cloud to edge computing
+for easier data handling
+14Market needs: 
+Sensors with local processing (Artificial Intelligence) 
+for real
+-
+time elaboration and best power efficiencyTime
+-"
+110,"time elaboration and best power efficiencyTime
+-
+sensitive applications are locally processedsensitive applications are locally processedCLOUD
+High power consumption & heavy files sent to the cloud
+Time-
+sensitive applications are limited by remote data cloud•
+Mission
+-
+critical functions•Bandwidth limitations
+•
+Privacy and security concerns
+•
+Power consumption 
+EDGE
+Power consumption 
+EDGELow power consumption. Optimized data sent to the cloud
+Low power consumption. Optimized data"
+111,"Low power consumption. Optimized data 
+sent to the cloud
+• LSM6DSOX
+6-axis IMU for battery powered IOT
+• LSM6DSRX
+6-axis IMU for VR and trajectory tracking
+• ISM330DHCX
+6-axis IMU for Industry 4.0
+• ASM330LHHX
+6-axis IMU for Vehicles
+• IIS2ICLX
+2-axis Inclinometer and structures monitoring
+Sensors with Machine Learning Core 
+& Finite State Machine
+15
+Predictive maintenance & Monitoring
+Vibration / Tilt
+GNSS, Telematics, VR/AR, Robot
+Rotation / Movement
+IOT / Wearable
+Movement tracking & Shock"
+112,"IOT / Wearable
+Movement tracking & Shock
+Infrastructure & Landslide monitoring
+Mechanical movement / Tilt
+Machine learning core classifies the traffic load and 
+wakes up 2nd level processing only when relevant 
+conditions are met
+Smart Wake-up for SHMFSM
+FSMSmart Wakeup
+ISM330DHCX
+with Machine Learning CoreSTM32
+2
+ndlevel AI processing
+STM32
+Analyticsnd level AI processingStorage
+Analytics
+StorageMLCEdge computing 
+Raw data
+Edge computing Edge-of
+-
+the-"
+113,"Raw data
+Edge computing Edge-of
+-
+the-
+Edge computing -ofCloudBattery powered, wireless sensor node-Edge computing 
+Cloud
+Battery powered, wireless sensor node
+STWIN introduction
+STWIN introduction
+Wireless connectivity is a game changer
+Here’s why•
+Hardware Board
+•
+Battery + plastic case for field testing
+•
+STLink
+-
+V3MINI + cable for programmingSTWIN1B is available under the sales code: STEVAL
+-
+STWINKT1B -STWINKT1B STWIN1B: SensorTileWireless Industrial Node"
+114,"STWIN1B: www.st.com/stwin Wireless Industrial Node
+www.st.com/stwin
+18
+Application softwareFP
+- SNS-
+DATALOG1DataloggingA broad ecosystem of SW tools
+Datalogging
+X-CUBE-
+MEMSMIC1Focus on microphonesCUBE-FP-
+IND-PREDMNT1Condition Monitoring
+FPFP-
+AI-NANOEDG1
+Anomaly detectionwww.st.com/stwin
+FP-AI-NANOEDG1
+Anomaly detection
+19
+www.st.com/stwin
+STEVAL-STWINKT1B
+Block diagram
+20
+SPI3
+ADC1
+USART2
+DFSDM1
+I2C2STM32L4R9ZIJ6
+Microcontroller
+Ultra Low Power Cortex
+-
+M4F@120MHz32 kHzCrystal
+16 MHz"
+115,"-
+M4F@120MHz32 kHzCrystal
+16 MHz
+Crystal
+16 MHz
+CrystalBlueNRG-M2SABLE Application Processor  
+Module -M2SA
+BLE Application Processor  
+STR485LVRS485 InterfaceSPI2
+STR485LV
+RS485 Interface20-
+pin STMOD+ connector12-
+pin female sensors connector12
+-pin male comm.
+connector40-
+pin Flex connector
+STSAFE-A110
+Secure Element
+40I2C2pin Flex connectorSPI2, I2C4 
+USART3-USBLC6
+-2P6USB ESD protection
+I2C2EMIF06
+-
+MSD02N16EMI filter and ESD protection
+USBLC6STBC02Li
+-Ion linerarbattery 
+charger-MSD02N16"
+116,"-Ion linerarbattery 
+charger-MSD02N16
+ST1PS01EJRstep-down 
+switching
+regulator-Ion LDK130 Low Noise LDO
+charger
+ST1PS01EJR
+step-DSI, CAN, ..
+SPI1, I2C3, USART3SAI1, I2C2, DFSDM2
+LDK130
+ESDALC6V1-1U2Single Line ESD protectionIIS2DH3D Accelerometer
+IIS3DWB
+Vibrometer
+SPI1, I2C3, 
+ISM330DHCX
+6
+-Axis IMU
+ESDALC6V1-LPS22HH
+Pressure SensorHTS221Humidity and Temp.  Sensor
+IIS2DH
+3D AccelerometerSTTS751
+Temperature Sensor
+IIS2MDC3D Magnetometer
+ISM330DHCX"
+117,"IIS2MDC3D Magnetometer
+ISM330DHCX
+6IMP23ABSUAnalog MicrophoneTS922EIJTLow noise, low distortion Op Amp
+LPS22HH
+Pressure SensorIMP34DT05
+Digital Microphone
+Humidity and Temp.  
+SensorPower management
+BLE RS485
+Secure communication
+IIS2MDC
+I/O protectionSensors
+IMP23ABSU
+Analog Microphone
+TS922EIJT
+Low noise, low 
+distortion Op Amp
+IMP34DT05
+Digital Microphone
+Power management
+BLE RS485
+Secure 
+communication
+I/O protection
+Sensors
+Summary1
+Predictive Maintenance to Anomaly detection2
+3New"
+118,"3New 
+industry4.0
+way of monitoring assets remotely with industrial 
+sensors emergingIIS3DWB vibration sensor, IMP23ABSU 
+ultrasound microphone 
+and 
+ISM330DHCX 
+6
+-
+axis IMU sensors are high runner components New STWIN1B development kit available with plenty pre
+-
+made SW packages for high speed datalogging and anomaly detection-made 
+SW packages for high speed datalogging and anomaly detection
+21
+© STMicroelectronics - All rights reserved."
+119,"21
+© STMicroelectronics - All rights reserved.
+ST logo is a trademark or a registered trademark of STMicroelectronics International NV or its affiliates in the EU and/or other countries. 
+For additional information about ST trademarks, please refer to www.st.com/trademarks. 
+All other product or service names are the property of their respective owners.
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/312004126"
+120,"Big Data Analytics for Predictive Maintenance Strategies
+Chapter · January 2017
+DOI: 10.4018/978-1-5225-0956-1.ch004
+CITATIONS
+67
+READS
+35,613
+3 authors, including:
+C. K. M. Lee
+The Hong Kong Polytechnic University
+304 PUBLICATIONS   8,937 CITATIONS   
+SEE PROFILE
+Kam K.H. Ng
+The Hong Kong Polytechnic University
+97 PUBLICATIONS   2,691 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Kam K.H. Ng on 29 June 2017.
+The user has requested enhancement of the downloaded file."
+121,"Copyright ©2017, IGI Global. Copying or distributing in print or electronic forms without written permission of IGI Global is prohibited.
+DOI: 10.4018/978-1-5225-0956-1.ch004
+Chapter 4
+50 
+Big Data Analytics for 
+Predictive Maintenance 
+Strategies
+ABSTRACT
+Maintenance aims to reduce and eliminate the number of failures occurred during 
+production as any breakdown of machine or equipment may lead to disruption for"
+122,"the supply chain. Maintenance policy is set to provide the guidance for selecting the 
+most cost-effective maintenance approach and system to achieve operational safety. 
+For example, predictive maintenance is most recommended for crucial components 
+whose failure will cause severe function loss and safety risk. Recent utilization of 
+big data and related techniques in predictive maintenance greatly improves the 
+transparency for system health condition and boosts the speed and accuracy in the"
+123,"maintenance decision making. In this chapter, a Maintenance Policies Management 
+framework under Big Data Platform is designed and the process of maintenance 
+decision support system is simulated for a sensor-monitored semiconductor manu-
+facturing plant. Artificial Intelligence is applied to classify the likely failure patterns 
+and estimate the machine condition for the faulty component.
+C. K. M. Lee
+The Hong Kong Polytechnic University, China
+Yi Cao"
+124,"Yi Cao
+The Hong Kong Polytechnic University, China
+Kam Hung Ng
+The Hong Kong Polytechnic University, China
+Big Data Analytics for Predictive Maintenance Strategies
+51
+INTRODUCTION
+Maintenance can be defined as all actions which are necessary to retain or restore a 
+system and a unit to a state, which is necessary to fulfill its intended function. The 
+main objective of maintenance is to preserve the capability and the functionality"
+125,"of the system while controlling the cost induced by maintenance activities and the 
+potential production loss. Correspondingly, failures can be defined as any change 
+or anomaly in the system causing an unsatisfactory level of performance. Although 
+only certain failures will cause severe risk in productivity and safety, most failures 
+lead to disruptive, inconvenient, and expensive breakdowns and loss of quality."
+126,"Maintenance plans are designed to reduce or eliminate the number of failures and 
+the costs related to them.
+There are two broadly accepted methodologies aiming at continuously enhanc-
+ing maintenance excellence, with different focuses. As a human factor manage-
+ment oriented policy, total productive maintenance (TPM) involves all employees, 
+especially the operators, in the maintenance program in order to achieve optimality"
+127,"in overall effectiveness and zero breakdowns. Through the operators’ participation 
+in maintenance, such as through inspections, cleaning, lubricating and adjusting, 
+early detection of hidden defects, before service breakdown. TPM aims to diminish 
+and eliminate six significant losses of equipment effectiveness – i.e. breakdowns, 
+setup and adjustment, idling and stoppages, reduced speed, defects in process, and 
+reduced yield (Jardine & Tsang, 2013)."
+128,"reduced yield (Jardine & Tsang, 2013).
+Reliability-centered maintenance (RCM) is another approach to strengthening 
+the system’s reliability, availability and efficiency which focuses on design and 
+technology. RCM program is based on systematic assessment of maintenance needs 
+after a complete understanding of the system function and the types of failure caus-
+ing function losses.
+Types of Maintenance
+Maintenance activities can be categorized into three types:
+1."
+129,"1. 	
+Reactive or corrective maintenance,
+2. 	
+Preventive maintenance (PvM), and
+3. 	
+Predictive maintenance (PdM).
+The following terms are also respectively used for the above three categories 
+interchangeably as:
+1. 	
+Breakdown maintenance or unplanned maintenance,
+Big Data Analytics for Predictive Maintenance Strategies
+52
+2. 	
+Planned maintenance, and
+3. 	
+Condition based maintenance (CBM) or prognostic and health management 
+(PHM)."
+130,"(PHM).
+Reactive or corrective maintenance follows the run-to-failure methodology, which 
+is the repair and/or replacement work after an equipment outage has occurred. This 
+primitive maintenance approach, which has been applied in industry for decades, 
+and is still considered the best maintenance policy for non-critical components with 
+short repairing time in the system. However, in most cases, an equipment failure can"
+131,"lead to unexpected production delay and lower the production efficacy rate, or more 
+seriously, cause severe damage to other components and/or injury to people. One 
+goal of a proactive maintenance plan is to reduce the overall requirement for reac-
+tive maintenance and to apply PvM and/or PdM strategies on any feasible occasion.
+Preventive maintenance is performed based on a certain periodic interval to 
+prevent and correct problems before breakdown without considering the actual"
+132,"health condition of a system. Basic preventive maintenance, including inspections, 
+lubrication, cleaning and adjustment is the first step to be undertaken. After that, 
+rectification or replacement can be undertaken only for components identified with 
+defects and/or considerable risk of failure. Generally, most PvM actions can be 
+implemented by operators with basic training.
+Predictive maintenance is a trend-oriented policy that begins with identifying the"
+133,"states of each component within the equipment. PdM greatly relies on engineering 
+techniques and statistical tools to process the data and analyze the health condition 
+in order to predict possible equipment failure (Lee, Ardakani, Yang, & Bagheri, 
+2015). The prediction of the equipment condition is based on the finding that most 
+types of failures, which occur after a certain degradation process from a normal 
+state to abnormalities, do not happen instantaneously (Fu et al., 2004). Through"
+134,"degradation monitoring and failure prediction, PdM reduces the uncertainty of 
+maintenance activities and enables identifying and solving problems before potential 
+damage. Condition-based maintenance, the alternative term for PdM, imposes more 
+emphasis on real-time inspections using RFID devices and wireless sense networks 
+(WSNs). The three key steps of CBM are monitoring and processing, diagnosis and 
+prognosis, and maintenance decision making.
+BIG DATA ACHITECTURE"
+135,"BIG DATA ACHITECTURE
+Big Data is not only a matter of volume increased of the collected data, but also 
+includes the evolution of data peculiarities, namely data variety and data velocity. 
+The intrinsic pattern of comprehensive data becomes the major driver for compa-
+Big Data Analytics for Predictive Maintenance Strategies
+53
+nies to investigate the use of big data analytics. The features of big data are broadly"
+136,"recognized as “4Vs” – i.e. volume, velocity, variety and value (Xin & Ling, 2013).
+•	
+Data Volume: Data volume is the primary attribute of data. Due to the dra-
+matically boost in data volume and the rising demand of data storage, data-
+base management has been modified as petabyte-scale data management. The 
+storage needs can be easily satisfied by increasing data warehouse capacities 
+but at the same time, the data transfer and processing will become too slow to"
+137,"be operated and handled by a single computer. Therefore, a super-computer 
+or high capacity server is required for operation. On the other hand, the cost is 
+also a major concern for implementing with advanced computing equipment. 
+The data growth in the supply chain and logistics system becomes too large 
+and too complex in the traditional data warehouse and system architecture. 
+In addition, big data analytics makes good use of multiple modes during the"
+138,"computation. This Big Data Analytics method can handle large volume data.
+•	
+Data Velocity: With the use of automatic data retrieval systems (e.g. sen-
+sor network, wireless network and electronic data interchange through the 
+Intranet and Internet), the speed of data transaction is rapidly increased. 
+Moreover, this allows companies to collect instant information and accelerate 
+the speed of data production and streaming. The data transfer and transfor-"
+139,"mation are more intensive nowadays. If the company chooses to extract real 
+time information from several automatic data retrieval systems, the speed of 
+data processing from big data must be as expeditious as possible to meet the 
+requirement of quick response.
+•	
+Data Variety: The analytics process of data mining has been expanded from 
+structured data to unstructured data, typically the images, videos, audio and 
+text, etc. The systematic relationship is longer limited by numerical results,"
+140,"but also prohibits pattern finding in unstructured data. This motivates com-
+panies to investigate semi-structured and unstructured data for their decision 
+making process. The major purpose of big data analytics is to resolve the 
+problem of incompatible data formats and non-aligned data structures of un-
+structured data with data mining techniques.
+•	
+Data Value: Big data analytics creates value for data mining in order to find"
+141,"the intrinsic and multidimensional attributes from the enormous amounts of 
+data. To a certain extent, a big data-driving model can perform as a support 
+vector machine to establish supervised learning, which allows the model to 
+adapt and evolve from time to time. Value creation is a significant process 
+contributing to organizations’ continuous improvement and demand predic-
+tion. We need to understand that big data analytics is not only in statistical"
+142,"analytics, but also in more complicated and tailor-made analytics. In general, 
+Big Data Analytics for Predictive Maintenance Strategies
+54
+big data analytics come into existence for resolving data storage problems as 
+well as providing valuable insights for organizations.
+The acquisition and processing of big data largely improves the transparency 
+along the supply chains providing accurate and timely information for managerial"
+143,"decision making. Companies and organizations operate on the huge amounts of 
+data by classifying trends and identifying patterns to produce invaluable knowledge.
+Meanwhile the flood of big data with high speed and many variations has chal-
+lenged the limited storage and conventional data mining methods. Challenges are 
+also from processing and analyzing the large amount of unstructured data which are 
+the major components in the big data acquired. Technologies have been advancing"
+144,"towards better performance in the big data context regarding integrated platforms, 
+predictive analytics, and visualization (Lee, Kao, & Yang, 2014). Big data and 
+predictive analysis are strongly interconnected. Without proper analytics, big data 
+is just a deluge of data, while without big data, predictive analytics, the strength 
+of statistics, modeling, and data mining tools for analyzing current and historical 
+conditions will be undermined.
+BIG DATA ANALYTICS"
+145,"conditions will be undermined.
+BIG DATA ANALYTICS
+The descriptive tasks of big data analytics identify the common characteristics of 
+data with the purpose of deriving patterns and relationships existed in the data. The 
+descriptive functions of big data mining include classification analysis, clustering 
+analysis, association analysis, and logistic regression.
+•	
+Classification Analysis: Classification is a typical learning models used in"
+146,"big data analytics, which aims to build a model for making prediction on data 
+feature from the predefined set of classes according to certain criteria. A rule-
+base classification is used to extract IF-THEN rules to classify as different 
+categories. The examples include neural network, decision trees and support 
+vector machine.
+•	
+Clustering Analysis: Clustering analysis is defined as the process of group-
+ing data into separate cluster of similar objects, which helps to segment and"
+147,"acquire the data features. Data can be divided into different subgroups ac-
+cording to the characteristics. The practitioners may formulate appropriate 
+strategies for different clusters. The common example of clustering technique 
+are K-means algorithm, self-organizing map, hill climbing algorithm and 
+density-based spatial clustering.
+Big Data Analytics for Predictive Maintenance Strategies
+55
+•	
+Association analysis: Association model helps the practitioners to recognize"
+148,"groups of items that occur synchronously. Association algorithm is devel-
+oped for searching frequent sets of items with minimum specified confidence 
+level. The criteria support and confidence level helps to identify the most 
+important relationships among the related items.
+•	
+Regression Analysis: Regression represents the logical relationship of the 
+historical data. The focus in regression analysis is to measure the dependent"
+149,"variable given one or several independent variables, which support the con-
+ditional estimation of expected outcome using the regression function. Linear 
+regression, non-linear regression and exponential regression are the common 
+statistical method to measure the best fit for a set of data.
+MAINTENANCE STRATEGIES
+The Big Data platform has the ability to handle huge amounts of data in manufactur-
+ing or production logistics databases along with the development of computerized"
+150,"maintenance management systems (CMMS), which assist decisions making so as 
+to formulate maintenance strategies.
+Maintenance procedures will be undertaken when a machine failure has occurred 
+in the CrM strategy. Manufacturers are required to keep components inventories 
+for maintenance, repair and operations (MRO) in order to prevent disruption of the 
+overall production by failure of machine parts or equipment. Compared to the CrM"
+151,"strategy, maintenance performance in the PvM strategy follows a fixed time, interval 
+basis or condition based schedules to avoid fatal machine failure. The design of PvM 
+is a protective, process-oriented approach in which machine failure and downtime 
+cost could be reduced by taking proper prevention and prevention to smoothen the 
+production. Decisions on maintenance schedules is based on a machine’s physical"
+152,"properties or asset condition. Extra resources are spent on non-value-added activi-
+ties to estimate and measure the condition rules for PvM (Exton & Labib, 2002). 
+However, PvM attempts to provide an empirical basis for the development of a 
+framework design of manufacturing flexibility at machine idle periods and during 
+maintenance activities. The assumption behind a PvM policy is that the machine 
+failure follows the bathtub curve in Figure 1. Scheduled maintenance happen in the"
+153,"wear-out phase in order to reduce the failure rate (Sikorska, Hodkiewicz, & Ma, 
+2011). However, the most conspicuous deficiency in PvM is still the apparent ran-
+dom failure within the useful life period. The impact of failure in a critical machine 
+is a tremendous risk to the downtime costs and, it in turn becomes bottleneck in 
+production logistics operations.
+Big Data Analytics for Predictive Maintenance Strategies
+56
+To remedy random machine failure in maintenance management, PdM has been"
+154,"well developed carrying out observation of the machine degradation process and 
+symptoms from normal to flawed situations (Wu, Gebraeel, Lawley, & Yih, 2007). 
+PdM is a sensor-based content-awareness philosophy based on the foundation of 
+“Internet of Things”. The intelligent maintenance prediction support system moni-
+tors the machine status by utilizing real time sensory data (Kaiser & Gebraeel, 2009). 
+Advance maintenance in PdM policy is able to provide insights for maintenance"
+155,"scheduling in advance in order to eliminate unanticipated machine breakdowns, and 
+minimize maintenance costs as well as downtime, before the occurrence of random 
+machine failure (Garcia, Sanz-Bobi, & del Pico, 2006).
+The important factors associated with PdM in Maintenance Policy Management 
+(MPM) emphases criticality, availability of sensory data, reliability, timeliness, 
+relevance and knowledge-oriented strategy.
+•"
+156,"relevance and knowledge-oriented strategy.
+•	
+Criticality in Failures: PdM strategy has been heavily concentrated in real 
+time machine condition monitoring through diagnostics and prognostics for 
+reimbursement of foreseeable machine downtime cost. In reliability study, 
+the critical assets must have a higher rank in priority formulate PdM strategy 
+to predict the most likely time for the next machine breakdown and random"
+157,"error, as this will have the greatest impact on the production operations This 
+Figure 1. Classical Bathtub Curve
+(Klutke, Kiessler, & Wortman, 2003)
+Big Data Analytics for Predictive Maintenance Strategies
+57
+changes the maintenance objective from avoiding breakdown to accepting 
+downtime and taking maintenance action ahead of the schedule.
+•	
+Availability of Sensory Data: PdM policy is highly dependent on extract-
+transform-load (ETL) operational data in close condition-based monitoring."
+158,"The current operational status and abnormal performance could be assessed 
+by equipping sensors to identify failure modules or machines. Lack of sen-
+sory data may result in unpromising maintenance prediction.
+•	
+Reliability: Maintaining critical machine performance and leveraging the 
+overall cost to sustain production are the major targets of PdM policy. The 
+system must provide the correct measures and reliable performance in pre-"
+159,"diction to address feasible and foreseeable machine failure, and build confi-
+dence in operation.
+•	
+Timeliness: The prediction for maintenance modules must have a high level 
+of confidence level before the undesired event occurs, and the data size and 
+data transmission speed administered in a timely manner. The time series of 
+the maintenance schedule and delivery of MRO should be taken into con-
+sideration the maintenance management in order to facilitate the production,"
+160,"with zero tolerance of equipment failure.
+•	
+Relevance: The MPM system needs to be developed based on the opinions of 
+experts. The collected sensory information must be recorded and analyzed on 
+a real time basis. In order to improve data quality, extraction of relevant data 
+for maintenance decision making is crucial in regard to engineering aspects. 
+Inappropriate integration of a sensor and machine may cause poor estimation 
+and inaccuracy prediction of the current machine performance.
+•"
+161,"•	
+Knowledge-Objective Oriented Strategy: The concept of the PdM strategy 
+involves a belief that the implicit knowledge from collaboration of sensory 
+information did contribute to the maintenance in advanced. The knowledge 
+transfer system facilitates the disclosure of implicit information to maximize 
+production efficiency and minimizes the adverse impact of idling time un-
+der maintenance and unawareness of potential failure. The decision of PdM"
+162,"policy could be assessed by the involvement of Big Data Mining Techniques 
+to detect and defeat anomalies at an early stage.
+PREDICTIVE MAINTENENACE IN BIG DATA FRAMEWORK
+The ideology of a PdM is to create transparency of the machine condition and in 
+the utilization of available information for maintenance decision making. In Figure 
+2, the framework of a big data platform in PdM is designed for closer integration 
+of data acquisition and the maintenance decision support system (MDSS), which"
+163,"Big Data Analytics for Predictive Maintenance Strategies
+58
+highlights the dataflow process in diagnostics and prognostics modeling for PdM. 
+Case examples are provided in the following section to describe the framework of 
+MPM for a semiconductor machine under Big Data Platform, and operations of 
+MDSS. The operating data from vibration, heat and pressure sensors, which provide 
+sensory information stored in the Big Database, are embedded on the semiconductor"
+164,"machine to evaluate the machine condition. The diagnostics and prognostics pro-
+cess may involve real time data and historical data for data mining procedures. The 
+advantage of Big Data Architecture are capable to manage huge units of data and 
+perform ETL in a timely manner by using appropriate data processing algorithms, 
+such as Map-Reduce technique. The Big Data platform can build an intelligent agent 
+Figure 2. Predictive maintenance model in big data platform"
+165,"Big Data Analytics for Predictive Maintenance Strategies
+59
+to connect the PdM module and the sensor knowledge from the actual machine. 
+The PdM module consists of two major systems: a diagnostics system and a prog-
+nostics system. PdM analysis is a powerful tool to identify machine/components 
+failure, and provide surprisingly accurate future breakdown using time-series data 
+by well-developed analytic processes. The predictive maintenance module closely"
+166,"supervises the machine condition and constantly aids the analytics process of di-
+agnosis and prognosis. The results from Artificial Intelligence (AI) will then be 
+further processed and evaluated by the MDSS. Certain operational guidance and 
+estimation of failure events, such as foreseeable situations, time to breakdown and 
+estimated downtime, are recommended for maintenance decision making. With the 
+implementation of the big data platform, more precise sensory data acquisition and"
+167,"accurate maintenance decisions could be made from the suggested algorithms in 
+order to manage critical machines, with the objectives of maintenance in advanced 
+or just-in-time (JIT) maintenance for supply chain management.
+It is practical for a decision makers to select appropriate analytic processes and 
+recognize the functionalities of algorithms for maintenance planning. Therefore, a 
+comprehensive discussion of algorithm design is presented herein. The common"
+168,"practices of AI techniques can be classified as Knowledge Based System (KBS), 
+Data Mining (DM) and Machine Learning (ML) (Faiz & Edirisinghe, 2009).
+•	
+Knowledge Based System: These types of analytics process require logical 
+deduction and cognitive reasoning to resolve complex problems and support 
+decision making. KBS attempts to extract rules for algorithm contexts by 
+human intelligence and expert opinion, which are of practical significance."
+169,"The practical necessity of KBS is increased due to the advancement of sen-
+sor-based PdM. KBS encourages a more flexible way to increase quality in 
+problem solving and in extracting relevant data into knowledge for decision 
+making, i.e., machine failure identification, classification in maintenance 
+policies. A variation of sensory information causes data-booming in the ana-
+lytics process. The rule-based and inference engine expert system have the"
+170,"ability to simulate a human expert in reducing the complexity in MPM and in 
+discovering hidden machine failures.
+•	
+Data Mining: The goal of the DM process is to create a constructive model 
+of patterns recognition and feature analysis, which is able to classify data 
+into groups, detect irregular features and measure the dependencies of data. 
+Moving toward a total productive manufacturing system, DM is an instru-
+ment that is able to mine all kinds of manufacturing knowledge, such as job"
+171,"shop scheduling, manufacturing process, quality control, yield improvement, 
+and even predictive maintenance strategy. In the data mining technique, the 
+accuracy of the information discovered increases along with the increase in 
+Big Data Analytics for Predictive Maintenance Strategies
+60
+gathered data from the sensors and the historical maintenance data, which is 
+able to foresee failure from pattern behavior of the operating machine data 
+and the increased reliability of MDSS.
+•"
+172,"and the increased reliability of MDSS.
+•	
+Machine Learning: ML is another dimension of the analytics process. The 
+mechanism of KBS and DM are either to discover knowledge and insight 
+beforehand for the working process of the algorithm, which is concerned in-
+formation and knowledge extraction from massive data. However, ML deals 
+with automatic reasoning and artificial cognitive resolution by an intelligence 
+agent. ML works as an online measurement of a health detection system to re-"
+173,"veal machine degradation and anomalies from the models. Self-learning and 
+reinforcement in ML, together with normal degradation allow the forecasting 
+of random machine failure effectively and efficiently in order to plan for the 
+best before failure occurs.
+THE RELATIONSHIP BETWEEN 
+DIAGNOSTICS AND PROGNOSTICS
+In most cases, there is a measureable process of degradation before a machine fails. 
+Figure 3 illustrates the degradation process of a system, sub-system, or component"
+174,"into failure. Through functioning life, the system may continuously degrade to a 
+condition with an observable drop in its performance level and initial faults may 
+occur during the degradation progress. The incipient defects continuously prolifer-
+ates and the severity gradually increases which causes the system to fail to perform 
+its required function and fails. In order to predict and prevent failures in advanced,"
+175,"diagnostics and prognostics techniques are studied and employed to evaluate the 
+current health conditions and forecast future performance.
+Figure 3. Fault to failure progression
+Big Data Analytics for Predictive Maintenance Strategies
+61
+Figure 4 indicates the inputs and outputs of the machine diagnostics and prog-
+nostics process. The diagnostics process determines how the system has degraded 
+and investigates the cause or nature of such a degraded condition. Faults are de-"
+176,"tected, isolated and identified to create a diagnostic record, and the faults possi-
+bilities are computed to find the potential failure pattern. The diagnostic operations 
+follow an analysing approach from effect to cause. On the other hand, prognostics 
+considers time as a vital factor and focuses on predicting the future condition of the 
+system or component and in calculating accurately the remaining useful life before"
+177,"the failure. The prediction is conducted from cause to effect. The analysing and 
+computing process is based on current system conditions and future operational 
+requirements. Although similar information and knowledge bases are shared, the 
+difference between the two concepts now becomes obvious. Diagnostics is to in-
+vestigate and determine a failure mode within a system; while prognostics is to 
+compute a rather accurate result of the remaining useful life before final failure."
+178,"The following sections present a diagnostics and prognostics system in Big Data 
+Analytics with a case example. The system flowchart is shown in Figure 5. Fault 
+identification is one of the diagnostics modules. The classification of machine 
+failure is critical to smoothen the production, as not all the failures require emer-
+gency maintenance. The result from the diagnostic model is able to assist in the 
+development of prognostics model. The reliability of the prediction could be increas-"
+179,"ingly improved from a known machine failure.
+Figure 4. Inputs and outputs with the diagnostic–prognostic process structure
+Big Data Analytics for Predictive Maintenance Strategies
+62
+The machine failure identification has been developed and incorporated with 
+the current decision making grid (DMG) in MDSS for the case company. The DMG 
+model works like a map which categorizes the machines according to a set of pre-"
+180,"defined parameters/criterions. The criteria for this project are the downtime and the 
+frequency of failures from the sensor data and historical record (Exton & Labib, 
+Figure 5. Flowchart of the proposed MDSS for case company
+Big Data Analytics for Predictive Maintenance Strategies
+63
+2002). Other criteria, such as cost, availability of MRO and the bottleneck problem, 
+can also be included by expanding it from merely a 2 dimensional analysis to a 3"
+181,"or more dimensional analysis model. Higher dimensional models can produce a 
+more comprehensive and accurate analysis. The DMG then proposes the different 
+types of maintenance policies based on the state in the grid which then determine 
+the appropriate maintenance actions for the MDSS. These maintenance policies 
+subsequently lead to be the formation of the following strategies; Operate to failure 
+(OTF), fixed time maintenance (FTM), skill level upgrade (SLU), condition based"
+182,"monitoring (CBM) and design out machine/component (DOM), as shown in Figure 
+6.
+•	
+Operate to Failure: There are too many low downtime and low downtime 
+frequency components which made it impossible or too expensive for apply-
+ing scheduled PdM maintenance. These components/machines are allowed to 
+operate to failure as they are deemed as having minimal impact on the sys-
+tem. Ideally, if operators of the machine are also maintenance technicians,"
+183,"which agrees with the TPM policy, OTF ‘faults’ can be further reduced with-
+out the need for reporting and waiting for the technician to bring the machine 
+back to normal operating state. A CrM approach is suggested for OTF 
+situation.
+•	
+Fixed Time Maintenance: PvM is also called Fixed Time Maintenance. A 
+more flexible PvM can be chosen which is determined either by availability, 
+machine not in use, or by the severity of the faults. Faults with higher down-"
+184,"time and frequency faults are allowed to have shorter fixed time maintenance, 
+Figure 6. Decision Making Grid by the case company
+Big Data Analytics for Predictive Maintenance Strategies
+64
+whereas faults with lower downtime and frequency can extend the duration of 
+their fixed time maintenance.
+•	
+Skill Level Upgrade: This strategy falls on the high frequency and low 
+downtime grid. Faults that fall under this strategy are faults caused by human"
+185,"errors, such as the accidental pressing of the wrong switch/button. For this 
+grid, the human factor oriented policy will be emphasized, either through the 
+human/operator or through the machine. From the human perspective, op-
+erators can undergo skill level upgrading so that they can ratify the problem 
+personally without any assistance from a maintenance technician. Whereas 
+from the machine side, human errors can be reduced by designing more hu-
+man oriented machine systems.
+•"
+186,"man oriented machine systems.
+•	
+Condition Based Monitoring: This strategy falls in the low frequency and 
+high downtime grid. This matches RCM policy where studies and measure-
+ment need to be done to determine the underlying reliability condition of the 
+machines. Sensors are usually be applied to feed monitoring data for machine 
+learning in a PdM approach.
+•	
+Design Out Machine/Component: This strategy falls on the high frequency"
+187,"and high downtime grid. Machines/components that are prescribed in this 
+grid region are usually unable to manage the current production level or are 
+subjected to substantial wear and tear after prolonged usage. Either the need 
+to upgrade to a better machine/components or a replacement of a new ma-
+chine has to be undertaken.
+FUZZY LOGIC FOR DIAGNOSTICS MACHINE FAILURE
+Fuzzy logic is an approximate reasoning model to estimate the possible outcome"
+188,"based on a set of rules. This method has been proven to be a prominent control 
+system that have been implemented in different engineering application, hardware 
+monitoring and conditional-based assessment. The process of Fuzzy Logic is a 
+simple, rule-based by using IF-THEN statements that imitate the decision making of 
+humans to classify the type of responsive performance by defining the intermediate 
+possibilities. Uncertainty in maintenance management, such as non-linear, impre-"
+189,"cise and incomplete knowledge representation can be resolved by the adoption of 
+fuzzy logic. As a consequence, conclusions are derived with certainty factor from 
+a predefined fuzzy sets.
+The research focus of predictive maintenance is to discover and recognize critical 
+random failure, involving low frequency and high downtime of maintenance. The 
+guidance from diagnostics in MDSS presents satisfactory knowledge rules to suggest"
+190,"maintenance action afterwards. Fuzzy Logic in KBS is merely a suitable algorithm 
+Big Data Analytics for Predictive Maintenance Strategies
+65
+for machine faliure identification in an imprecise enironment. The linkage between 
+machine failure and classification of maintenance policies are frequently vague and 
+subject to various sensory information. In practice, however, a need to refine the 
+DGM model is required due to two scenarios. The first scenario is when data is"
+191,"located close to each another but at different sides of the policy boundary, leading 
+to applying different strategies, despite being closely similar with one another. The 
+next scenario is when two data points are located at both ends of the boundary within 
+the same grid, leading to applying the same strategies, despite being far apart, as 
+shown in Figure 7. Therefore, the concept of Fuzzy Logic can be applied to reshape 
+the rigid boundaries,and make it more logical for the system."
+192,"A Fuzzy Logic design for semiconductor equipment is provided with two factors: 
+downtime records and frequency records as in Figure 8. All membership functions 
+(MF) are selected as trapezium shape, with two numerical inputs and one numerical 
+output involved, as shown in Figure 9. Defuzzification is a method of extracting a 
+crisp value from a fuzzy set as a representative value. In general there are five 
+methods, for defuzzifying a fuzzy set A in a universe of discourse Z. These methods"
+193,"are the Centroid of Area (COA) or Center of Gravity, Mean of Maximum (MOM), 
+Bisector of Area (BOA), Smallest of Maximum (SOM) and Largest of Maximum 
+(LOM). COA is selected as the defuzzification strategy for the model. A fuzzy if-
+then rule is applied on the interface, as shown in Figure 10. When all rules and 
+membership functions are settled, the Fuzzy Logic Rule Viewer and Fuzzy Logic 
+Surface Viewer can be examined in Figure 11. With the help of fuzzy logic, the"
+194,"Figure 7. Decision making grid formaintenance policies
+Big Data Analytics for Predictive Maintenance Strategies
+66
+known machine failure problem associated with breakdown time and frequency can 
+be reviewed for the current machine. Figure 12 shows the result of machine fault 
+identification from semiconductor A and B
+Figure 8. Fuzzy logic: fuzzy inference system editor
+Figure 9. Fuzzy logic membership input function editor: downtime and frequency"
+195,"Big Data Analytics for Predictive Maintenance Strategies
+67
+ARTIFICIAL NEURAL NETWORK FOR PROGNOSTICS 
+MACHINE FAILURE
+Prognostics is a model that is able to predict machine failure compared with normal 
+behavior on a real time basis. Maintenance in advanced is better adopted to the 
+necessity of repairs for an in-service machine in order to mitigate the disruption 
+of the overall production. A health condition assessment is required to check the"
+196,"machine status frequently. Machine failure can be caused by normal degradation 
+and random failure. Basic KBS and DM are incapable of distinguishing random 
+failure and normal degradation, since machine degradation follows time progres-
+sion rather than by rules. Therefore, an adoptive approach of machine learning to 
+prognosticate the next random failure is required. The Artificial Neural Network 
+Figure 10. Fuzzy logic MF rules and output: maintenance policies"
+197,"Figure 11. Fuzzy logic surface viewer
+Big Data Analytics for Predictive Maintenance Strategies
+68
+(ANN) model is a supervised learning method to estimate the Remaining Useful 
+Lifetime (RUL) of a machine from degraded failure, or to differentiate anomalies 
+from normal machine behavior. ANN can be used as a time series or forecasting 
+of unanticipated machine failure with online sensory data, which is able to learn"
+198,"patterns from the training data set to distinguish the normal machine behavior and 
+any anomalies. The prediction in machine failure involves Big Data management 
+with the purpose of strengthening the data quality. Continuous data collection from 
+different sensors installed in the machine supports the quality of prediction.
+Figure 13 illustrates the mechanism of the ANN model. The basic ANN algo-
+rithm estimates the feasible outputs for prediction maintenance from observation"
+199,"data or sensory information in order to understand the machine condition. ANN 
+provides assurance in resolving prediction and performance assessment with suffi-
+Figure 12. Maintenance policies for seminconductor machine A and B 
+Big Data Analytics for Predictive Maintenance Strategies
+69
+cient continuous input data. Vibration, heat and temperature sensors are established 
+for the evaluation of the semiconductor machine. ANN is a simple artificial neuron"
+200,"processing system, which included input nodes, number of hidden layers, weighted 
+factors of adjacent layers and output nodes. The hidden layers function as connectors 
+between the input nodes and output nodes to transform and extract features of the 
+input space. The prediction accuracy of ANN is dependent on the training process. 
+The training process allows adjustment the synaptic weighting of input and develops"
+201,"the overall network by the construction of hidden layer. Before the actual running 
+of the prediction, correct data and wrong data must be available in the training of 
+supervised learning algorithm to ascertain its reliability in prediction. As a rule of 
+thumb, 60% of the dataset is needed for training and the remaining dataset is for 
+running test. Big Databases are able to collect huge amounts of historical and online 
+data to enhance the accuracy of an ANN model through trial and error."
+202,"The predictive tasks in MDSS are presented in the following three main func-
+tions:
+•	
+Health Condition Assessment: The main goal is to monitor the machine 
+performance and machine components degradation. In MPM, considerable 
+maintenance actions could be resolved by component replacement. The sen-
+sor network can effectively enhance MRO order processing and improve flex-
+ibility in maintenance scheduling for the component substitution. The ma-"
+203,"chine downtime caused by component damage could be reduced to meet the 
+aim of agile production recovery.
+•	
+Anomalies Detection Assessment: Anomalies detection is an approach in 
+root cause analysis. Machine anomalies may take place when the machine 
+are not working normally. The cause of consistency anomalies is not straight-
+Figure 13. Artificial neural network
+Big Data Analytics for Predictive Maintenance Strategies
+70"
+204,"70
+forward to detect. ML algorithms are capable of measuring the machine per-
+formance from the current and normal conditions for identifying anomalies. 
+The features of abnormality in machine performance are provided for further 
+inspection by the repair technicians.
+•	
+Remaining Useful Lifetime Assessment: The major challenge in asset man-
+agement is to optimize the machine lifetime utilization. Different machine 
+usage may conclude variability of depreciation. In addition, longer lead time"
+205,"in machine replacement causes an uncertainty in the production and supply 
+chain performance. The estimation of remaining useful lifetime by sensory 
+information can effectively leverage the machine lifetime utilization and pre-
+diction for the machine replacement and performing a just-in-time machine 
+replacement policy.
+•	
+Scheduling Optimization for Maintenance in Advance: Prediction of fore-
+seeable machine failure is used to assess the machine expected performance"
+206,"in the future and optimize the maintenance schedules with less adverse ef-
+fect on production disruption. Unanticipated machine failure may give a lon-
+ger downtime and cease the manufacturing process. The prediction from the 
+ANN model emphasizes proactive maintenance and provides the right time 
+to conduct inspection. ANN captures the possible reasons, like the timeline 
+of the machine failure event, reasons, duration and relevance information of"
+207,"the machines by triggered sensory information. With systematic maintenance 
+in advanced, unplanned machine stopping can be eliminated.
+MANAGERIAL IMPLICATIONS AND RECOMMENDATIONS
+The entire Big Data framework requires human intelligence and expert opinion in 
+the design stage. It is difficult for the manufacturer to manage and, control big data 
+and select relevant information for MDSS. The availability of sensors and techno-"
+208,"logical advancement enable explorative research of Big Data Analytics, and allows 
+organizations to expand their capability to enhance the data transparency of machine 
+status for manufacturers. The speedy data flow and collection of abundant data 
+through WSNs enhance the potential of analytical performance. The adoption of Big 
+Data in MDSS state a significant step in machine health condition diagnosis. The 
+proposed approach helps to mitigate machine failure during production and uncover"
+209,"the hidden patterns through Big Data Analytics. However, management faces three 
+major challenges of transformation traditional maintenance to advanced MDSS.
+Various industries noticed that the size of data has been exponentially increasing 
+and accelerating due to the comprehensive use of sensor network. The transition from 
+conventional database to non-relational database is not only upgrading the storage 
+Big Data Analytics for Predictive Maintenance Strategies
+71"
+210,"71
+capacity, but also requiring an infrastructure and expertise to process, and handle 
+structured and unstructured data. Handling and understanding on the petabytes or 
+even exabyte of data has become a challenge for IT teams. More advanced capabil-
+ity in data warehouses and network connection expedites real time data processing.
+Due to the complexity of data type, the current processing techniques could not 
+meet the demand of Big Data Infrastructure. Due to the enormous data booming via"
+211,"WSNs, a cohesive platform for processing structure and unstructured data becomes 
+an essential element for any enterprises. The major purpose of Big Data Infrastruc-
+ture is to resolve the problem of incompatible data formats and non-aligned data 
+structures. The impact on inconsistency of unstructured data requires pre-processing 
+of data input to enhance the performance of Big Data Mining.
+Investigating the unstructured data in manufacturing not only create the value"
+212,"for the production engineer but also support MDSS with more vigorous and so-
+phisticated Big Data Analytics. Several research paper mentioned that analyzing the 
+unstructured data is the first priority in decision-making and prediction (Li, Bagheri, 
+Goote, Hasan, & Hazard, 2013; Muhtaroglu, Demir, Obali, & Girgin, 2013; Wielki, 
+2013). However, not all the unstructured data can be beneficial to knowledge de-
+velopment and decision-making process. The relevant machine data must be fit for"
+213,"purpose of maintenance policy selection. Proper domain experts in place are critical 
+to interpret the sensory information for predictive maintenance during the design 
+stage of Big Data Analytics. Furthermore, enhancing data quality by the adoption 
+of suitable sensors in the machine is also an importance for the company. Big Data 
+offers tremendous insight to the diagnostics and prognostics of the machine status."
+214,"Nonetheless, the information reliability from predictive maintenance is only avail-
+able with appropriate sensors selection and adoption. In today’s Big Data Analytics, 
+research focus has been shifted from Volume of data to quality data.
+Regarding the complexity of Big Data Analytics in MDSS, collaboration of in-
+dustrial expertise and scholars must be involved to have sufficient breadth and depth 
+of domain knowledge to design an appropriate Big Data Analytics for maintenance"
+215,"strategies. The proactive approach to predict machine failure provides a high level 
+reliability for excellence in maintenance management. Further benefit can be sum-
+marized as reducing the frequency of corrective maintenance, increasing machine 
+performance and enhancing overall production reliability.
+FUTURE RESEARCH DIRECTIONS
+Future research is oriented to the utilization of manufacturing information in the 
+Cyber Physical System (CPS). Big Data Analytics are able to achieve better trans-"
+216,"parency of production, which provides knowledge insight to practitioners. With the 
+Big Data Analytics for Predictive Maintenance Strategies
+72
+technological advancement in Internet of Things and the utilization of sophisticated 
+prediction tools, specialized automotive networks in a manufacturing company could 
+be developed for real time monitoring and control at the strategical level. Incorporat-
+ing the manufacturing computational intelligence into the machine health monitoring"
+217,"allow the manufacturers to enhance the overall system reliability and production 
+efficiency, especially in reducing the machine downtime. Predictive maintenance 
+is not only about health assessment but also detect the abnormality of the machine 
+before it breaks down. To have a step forward from predictive maintenance, pro-
+duction plant should realize the importance of just-in-time maintenance strategy 
+for the whole production process. Implementation of CPS synthesizes data from"
+218,"WSNs to enable the remaining life prediction so as to improve the asset utilization. 
+Risk assessment and impact evaluation of machine failure will also allow produc-
+tion engineers to estimate the production system reliability. This motive turns the 
+predictive manufacturing system into a “self-aware-and-self-adjustment” system, 
+with intelligent machines and sensors in Big Data era.
+CONCLUSION
+In this book chapter, the predictive maintenance model and Big Data Analytics in"
+219,"managerial aspects are presented. The feature extraction through Big Data Analyt-
+ics can be beneficial to managing the machine condition and in predicting machine 
+failure. The MDSS in Big Data is able to suggest maintenance strategies and provide 
+insight for management to tackle maintenance issues. The proactive strategies in 
+maintenance can be achieved by embedded sensors and real time based machine 
+monitoring systems. Besides, the prediction from Big Data Analytics and suggested"
+220,"analytics processes are well-designed to reduce the maintenance turnaround time 
+and substantially enhance the production system availability. MRO and maintenance 
+resources can be planned in advanced to facilitate the process during the machine 
+downtime. Moreover, it provides flexibility to design maintenance schedules to 
+mitigate the risk of unplanned stoppings. The overall maintenance efficiency can 
+be much improved by the implementation of predictive maintenance under a Big"
+221,"Data platform.
+ACKNOWLEDGMENT
+The research is supported by The Hong Kong Polytechnic University. The authors 
+would like to thank the case company for providing the data. Our gratitude is also 
+extended to the Research Committee and the Department of Industrial and Systems 
+Big Data Analytics for Predictive Maintenance Strategies
+73
+Engineering of the Hong Kong Polytechnic University for support in this project 
+(RUE9) and (RU8H).
+REFERENCES"
+222,"(RUE9) and (RU8H).
+REFERENCES
+Exton, T., & Labib, A. (2002). Spare parts decision analysis–The missing link in 
+CMMSs (Part II). Journal of Maintenance & Asset Management, 17(1), 14–21.
+Faiz, R., & Edirisinghe, E. A. (2009). Decision making for predictive maintenance 
+in asset information management. Interdisciplinary Journal of Information, Knowl-
+edge, and Management, 4, 23–36.
+Fu, C., Ye, L., Liu, Y., Yu, R., Iung, B., Cheng, Y., & Zeng, Y. (2004). Predictive"
+223,"maintenance in intelligent-control-maintenance-management system for hydroelec-
+tric generating unit. Energy Conversion. IEEE Transactions on, 19(1), 179–186.
+Garcia, M. C., Sanz-Bobi, M. A., & del Pico, J. (2006). SIMAP: Intelligent Sys-
+tem for Predictive Maintenance: Application to the health condition monitoring 
+of a windturbine gearbox. Computers in Industry, 57(6), 552–568. doi:10.1016/j.
+compind.2006.02.011"
+224,"compind.2006.02.011
+Jardine, A. K., & Tsang, A. H. (2013). Maintenance, replacement, and reliability: 
+theory and applications. CRC Press.
+Kaiser, K. A., & Gebraeel, N. Z. (2009). Predictive maintenance management using 
+sensor-based degradation models. Systems, Man and Cybernetics, Part A: Systems 
+and Humans. IEEE Transactions on, 39(4), 840–849.
+Klutke, G.-A., Kiessler, P. C., & Wortman, M. (2003). A critical look at the"
+225,"bathtub curve. IEEE Transactions on Reliability, 52(1), 125–129. doi:10.1109/
+TR.2002.804492
+Lee, J., Ardakani, H. D., Yang, S., & Bagheri, B. (2015). Industrial big data analytics 
+and cyber-physical systems for future maintenance & service innovation. Procedia 
+CIRP, 38, 3–7. doi:10.1016/j.procir.2015.08.026
+Lee, J., Kao, H.-A., & Yang, S. (2014). Service innovation and smart analytics for 
+industry 4.0 and big data environment. Procedia CIRP, 16, 3–8. doi:10.1016/j.
+procir.2014.02.001"
+226,"procir.2014.02.001
+Li, L., Bagheri, S., Goote, H., Hasan, A., & Hazard, G. (2013). Risk adjustment 
+of patient expenditures: A big data analytics approach. Paper presented at the Big 
+Data, 2013 IEEE International Conference on. doi:10.1109/BigData.2013.6691790
+Big Data Analytics for Predictive Maintenance Strategies
+74
+Muhtaroglu, F., Demir, S., Obali, M., & Girgin, C. (2013). Business model canvas 
+perspective on big data applications. Paper presented at the Big Data, 2013 IEEE"
+227,"International Conference on. doi:10.1109/BigData.2013.6691684
+Sikorska, J., Hodkiewicz, M., & Ma, L. (2011). Prognostic modelling options for 
+remaining useful life estimation by industry. Mechanical Systems and Signal Pro-
+cessing, 25(5), 1803–1836. doi:10.1016/j.ymssp.2010.11.018
+Wielki, J. (2013). Implementation of the big data concept in organizations-possi-
+bilities, impediments and challenges. Paper presented at the Computer Science and"
+228,"Information Systems (FedCSIS), 2013 Federated Conference on.
+Wu, S.-j., Gebraeel, N., Lawley, M. A., & Yih, Y. (2007). A neural network integrated 
+decision support system for condition-based optimal predictive maintenance policy. 
+Systems, Man and Cybernetics, Part A: Systems and Humans. IEEE Transactions 
+on, 37(2), 226–236.
+Xin, N. Y., & Ling, L. Y. (2013). How we could realize big data value. Paper pre-
+sented at the Instrumentation and Measurement, Sensor Network and Automation"
+229,"(IMSNA), 2013 2nd International Symposium on.
+View publication stats
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/224442007
+Predictive Maintenance Management Using Sensor-Based Degradation
+Models
+Article  in  IEEE Transactions on Systems Man and Cybernetics - Part A Systems and Humans · August 2009
+DOI: 10.1109/TSMCA.2009.2016429 · Source: IEEE Xplore
+CITATIONS
+175
+READS
+5,730
+2 authors, including:
+Nagi Gebraeel"
+230,"READS
+5,730
+2 authors, including:
+Nagi Gebraeel
+Georgia Institute of Technology
+86 PUBLICATIONS   5,795 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Nagi Gebraeel on 14 November 2015.
+The user has requested enhancement of the downloaded file.
+840
+IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS—PART A: SYSTEMS AND HUMANS, VOL. 39, NO. 4, JULY 2009
+Predictive Maintenance Management Using
+Sensor-Based Degradation Models
+Kevin A. Kaiser and Nagi Z. Gebraeel"
+231,"Kevin A. Kaiser and Nagi Z. Gebraeel
+Abstract—This paper presents a sensory-updated degradation-
+based predictive maintenance policy (herein referred to as the
+SUDM policy). The proposed maintenance policy utilizes con-
+temporary degradation models that combine component-speciﬁc
+real-time degradation signals, acquired during operation, with
+degradation and reliability characteristics of the component’s
+population to predict and update the residual life distribution"
+232,"(RLD). By capturing the latest degradation state of the component
+being monitored, the updating process provides a more accurate
+of the remaining life. With the aid of a stopping rule, maintenance
+routines are scheduled based on the most recently updated RLD.
+The performance of the proposed maintenance policy is evaluated
+using a simulation model of a simple manufacturing cell. Fre-
+quency of unexpected failures and overall maintenance costs are"
+233,"computed and compared with two other benchmark maintenance
+policies: a reliability-based and a conventional degradation-based
+maintenance policy (without any sensor-based updating).
+Index Terms—Condition monitoring (CM), degradation mod-
+els, manufacturing, predictive maintenance, prognostics, reliabil-
+ity, simulation.
+I. INTRODUCTION
+T
+HE ADVENT of sensor technology has brought about
+an increased interest in prognostic health management"
+234,"and its impact on maintenance management. The development
+of optimal maintenance strategies is necessary for improving
+system reliability, preventing the occurrence of unexpected
+system failures, and reducing maintenance costs [1]–[3]. This
+is particularly true in just-in-time manufacturing environments
+where unexpected machine breakdowns can be prohibitively
+expensive because they result in immediate lost production,
+failed shipping schedules, and poor customer satisfaction."
+235,"Preventive maintenance (PM), one of the most popular main-
+tenance policies, involves periodic inspections necessary for
+maintaining equipment upkeep as well as performing correc-
+tive actions. Identifying the appropriate PM interval requires
+analyzing failure time data and is determined solely based on
+age or service time [3]. Thus, PM does not take into account
+the condition or degradation characteristics of a system while"
+236,"Manuscript received July 30, 2007; revised December 4, 2008. First pub-
+lished May 12, 2009; current version published June 19, 2009. This paper was
+recommended by Associate Editor M. Jeng.
+K. A. Kaiser is with Cerner Corporation, Kansas City, MO 64117 USA
+(e-mail: kize80@hotmail.com).
+N. Z. Gebraeel is with the School of Industrial and Systems Engineer-
+ing, Georgia Institute of Technology, Atlanta, GA 30332-0205 USA (e-mail:
+nagi@isye.gatech.edu)."
+237,"nagi@isye.gatech.edu).
+Color versions of one or more of the ﬁgures in this paper are available online
+at http://ieeexplore.ieee.org.
+Digital Object Identiﬁer 10.1109/TSMCA.2009.2016429
+planning maintenance activities. This can sometimes lead to un-
+necessary maintenance routines and loss in production capacity.
+In contrast, condition-based maintenance (CBM) utilizes real-
+time condition monitoring (CM) information to schedule main-
+tenance routines. CM involves observing degradation-based"
+238,"measures, such as temperature, vibration, acoustic emissions,
+from an operating system or device to determine its state of
+health [4]–[7].
+Sensory information collected by CM techniques often ex-
+hibits characteristic patterns known as degradation signals.
+Degradation signals can be used to predict a system’s remaining
+lifetime [8]. It is not unusual for degradation signals of iden-
+tical components to have similar evolutionary paths that can"
+239,"be modeled using some functional form, for example, linear,
+exponential, etc. [9]. Gebraeel et al. [10], [11] presented base
+case sensor-based degradation models for estimating residual
+life distributions (RLDs) of partially degraded components.
+These distributions were continuously updated using in situ
+degradation signals in a Bayesian manner. The authors tested
+the predictability of their methodology using vibration-based
+degradation signals observed from an experimental rotating"
+240,"machinery setup.
+This paper builds on the recently developed sensor-
+based degradation models and presents a sensory-updated
+degradation-based maintenance (SUDM) policy. Unlike con-
+ventional CBM which uses CM from a system or component
+being monitored, the SUDM policy combines population-based
+degradation characteristics with real-time monitoring informa-
+tion to predict the remaining lifetime. First, a general degrada-
+tion model is used to estimate the RLD of a partially degraded"
+241,"system. The preliminary RLD is used to develop an initial
+maintenance schedule. The RLDs are then updated in real-
+time using in situ degradation signals. The schedule of the
+corresponding maintenance actions is, in turn, revised based on
+the most recently updated residual lifetime estimates.
+It is important to note that sensory-updated degradation mod-
+els have not been considered in the context of a maintenance
+framework. Furthermore, it is not clear how these models will"
+242,"perform in such a framework. Consequently, this paper studies
+some of the challenges associated with using these updated
+models to develop an adaptive maintenance policy. Some of the
+key challenges include the following:
+1) First, the sensory-updating procedure is performed con-
+tinuously over time. Thus, it is necessary to establish a
+stopping rule at which point the most recently updated
+RLD is used to estimate the residual lifetime and schedule
+maintenance.
+1083-4427/$25.00 © 2009 IEEE"
+243,"maintenance.
+1083-4427/$25.00 © 2009 IEEE
+KAISER AND GEBRAEEL: PREDICTIVE MAINTENANCE MANAGEMENT
+841
+2) Second, there is a possibility that the sensory-updated
+degradation models will provide relatively conservative
+residual life estimates depending on when the updating
+process will be terminated. For example, in an experi-
+mental study discussed in Section III, a base case model
+tested on a rotating machinery application provided sig-"
+244,"niﬁcantly conservative residual life estimates, particularly
+at the earlier stages of the degradation process. These
+predictions slowly improved over time until they were
+within ±2% of the actual failure times during later stages
+of degradation (see Fig. 2 in Section III-B). Therefore,
+there is a warranted concern that a maintenance policy
+that utilizes sensory-updated degradation models may be
+too conservative depending on the effect of the updating"
+245,"stopping rule mentioned earlier. Such a scenario may
+result in a high number of preventive replacements, thus,
+increasing maintenance costs and reducing throughput
+due to an increased frequency of planned shutdowns.
+The remainder of this paper is organized as follows.
+Section II reviews some of the relevant literature. Section III
+describes the degradation modeling approach that will be used
+to developed our maintenance policy. Section IV discusses"
+246,"our Sensory-Updated Degradation-Based Maintenance Policy
+(SUDM policy). In Section V, we develop an ARENA simula-
+tion model to evaluate the performance of the proposed policy
+by comparing it to two benchmark policies, a reliability-based
+PM policy and a condition-based predictive maintenance policy
+that utilizes degradation models developed by Lu and Meeker
+[9]. Simulation Results are discussed in Section VI. Finally,
+Section VII discusses the conclusions and some future research
+directions."
+247,"directions.
+II. LITERATURE REVIEW
+Condition-based maintenance focuses scheduling mainte-
+nance activities by periodically or continuously monitoring
+speciﬁc measures that are related to the health and performance
+of the systems that are being maintained. Once these measures
+exceed a predeﬁned failure threshold, the system is shutdown
+for repair. For example, in Nakagawa and Ito [12] present
+condition-based PM policies for critical components of fossil-"
+248,"ﬁred power plants. They consider the plant as a system that
+fails once the cumulative damage of its components exceeds
+a predetermined managerial damage level. In [6] Sloan and
+Shanthikumar, assumed that the condition of equipment is mon-
+itored at equidistant time intervals. The authors also assumed
+that equipment can fail within an inspection interval, and the
+probability of failure is exponential. Marseguerra et al. [7]
+assumed continuously monitored multicomponent system and"
+249,"use a Genetic Algorithm (GA) for determining the optimal
+degradation level beyond which PM has to be performed. In
+[13], Wu et al. developed an integrated neural-network-based
+decision support system for predictive maintenance of rota-
+tional equipment. The integrated system focused on minimizing
+expected cost per unit operational time, and consisted of a
+heuristic managerial decision rule for different scenarios of
+predictive and corrective cost compositions."
+250,"predictive and corrective cost compositions.
+A signiﬁcant portion of CBM research is based on Propor-
+tional hazard models. Proportional hazard models consist of a
+benchmark hazard function and explanatory variables to char-
+acterize a system’s hazard function based on external operating
+conditions [14]–[20]. They have also been used in various engi-
+neering applications, such as aircrafts, marine applications, and
+machinery [14]–[16]. They have also been used to determine"
+251,"the optimal replacement policies [21] and maintenance intervals
+[17], [18].
+Unlike proportional hazard models, degradation models fo-
+cus on modeling the evolution of condition-based sensor signals
+(aka degradation signals) obtained from partially degraded sys-
+tems. Lu and Meeker [9] developed a two-stage methodology
+to model the path of a condition-based degradation signal
+using random coefﬁcients growth models. Their models utilize
+a sample of degradation signals to estimate the RLDs for a"
+252,"population of components. Other studies used Brownian motion
+to model degradation processes examples include work done
+by Doksum and Hoyland [22], Whitmore [23] and Whitmore
+and Schenkelberg [24]. However, most of these degradation
+modeling approaches rarely integrate real-time degradation
+signals with the goal of updating the estimation of the re-
+maining lifetime of components still operating in the ﬁeld.
+Gebraeel et al. [10], [11] developed a sensor-based updating"
+253,"method for updating remaining life distributions of systems
+and their components while they operate in the ﬁeld. The
+maintenance policy proposed in this paper is based on the
+degradation modeling framework proposed in [10] and [11].
+The sensory-updating procedure is used to establish a linkage
+between maintenance scheduling and the degradation states of
+machines or equipment being maintained.
+Maintenance policies have a signiﬁcant impact on the per-"
+254,"formance of a manufacturing facility. For example, Sloan and
+Shanthikumar [6] developed a Markov decision process model
+that simultaneously determines maintenance and production
+schedules for a multiple-product, single-machine production
+systems. In this model, equipment condition was explicitly
+linked to yield loss. Several research efforts have worked on
+extending classic economic manufacturing quantity models
+to account for changing equipment condition and inspection"
+255,"policies [25]–[28]. For example in [28], the authors propose
+GA-based optimization procedure for scheduling of mainte-
+nance operations in a manufacturing system by considering
+production gains and maintenance expenses. The authors used
+discrete even simulation to evaluate the performance of their
+policy.
+Simulation has been widely used to study the effectiveness
+of maintenance management systems [29]. Jianhui et al. [30]
+developed an integrated prognostic process based on data"
+256,"collected from model-based simulations under nominal and
+degraded conditions. Wang et al. [31] developed a condition-
+based replacement and spare provisioning policy for deteri-
+orating systems with uncertain deterioration to failure. They
+developed a simulation model to characterize the opera-
+tion for the system operation under the proposed condition-
+based methodology and use a genetic algorithm to jointly
+optimize replacement, inspection, and inventory decision
+variables.
+842"
+257,"variables.
+842
+IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS—PART A: SYSTEMS AND HUMANS, VOL. 39, NO. 4, JULY 2009
+Some research works considered the interaction between
+maintenance policies and manufacturing systems. Logendran
+and Talkington [32] used simulation modeling to compare
+the performance of cellular and functional work cell layouts
+while considering two different maintenance policies: a cor-
+rective and a PM policy. Vineyard and Meredith [33] used"
+258,"simulation to analyze the effect of ﬁve different maintenance
+policies on ﬂexible manufacturing systems (FMS) subject to
+random failure. Variations of corrective, preventive, and op-
+portunistic maintenance policies were investigated. The authors
+demonstrated that the choice of a maintenance policy affected
+the number of maintenance tasks required, and that a hybrid
+maintenance policy, combining reactionary, time, and event-
+triggered preventive characteristics, resulted in the least num-"
+259,"ber of maintenance tasks and system downtime. Savsar [34]
+also analyzed the performance of an FMS considering cor-
+rective, preventive, and opportunistic maintenance policies.
+Rezg et al. [35] used simulation to present a joint optimal
+inventory control and PM strategy for a randomly failing pro-
+duction units operating under a just-in-time conﬁguration. A
+cost function was used to evaluate optimal PM interval time
+and buffer stock level for the system.
+III. SENSORY-UPDATED DEGRADATION MODELING"
+260,"III. SENSORY-UPDATED DEGRADATION MODELING
+The sensory-updated degradation modeling framework rests
+on the idea that the functional form of a degradation signal is
+correlated with the underlying physical phenomena that occur
+during a degradation process. The functional form is mod-
+eled as a continuous-time continuous-state stochastic model.
+In general, the magnitude of the degradation signal of the ith
+component at time tj is given as
+S(tij) = η(tij; Φim, Ξik, Bil) + ε(tij)
+(1)"
+261,"S(tij) = η(tij; Φim, Ξik, Bil) + ε(tij)
+(1)
+where η(·) represents the functional form that describes the path
+followed by the degradation signal. Φm is a vector of m deter-
+ministic parameters that represent constant degradation features
+common to all units of the population. Ξik = (θi1, . . . , θik) is
+a vector of k stochastic parameters used to model the unit-to-
+unit variability, such as degradation rates, across the popula-
+tion. The stochastic parameters are assumed to follow speciﬁc"
+262,"distributions across the population of components with those
+of the individual components being an unknown “draw” from
+the distribution. Bil = (βi1, . . . , βil) is a vector of l covariates
+(ﬁxed and/or stochastic) that capture external factors, such as
+time-varying operating and environmental conditions. ε(tij) are
+error terms that capture environmental noise and other signal
+transients.
+Databases of historical reliability and condition-based degra-"
+263,"dation measures are used to estimate: 1) the values of the
+deterministic model parameters and ﬁxed covariates and 2) the
+prior distributions of stochastic model parameters and stochas-
+tic covariates. The resulting model is a generalized degradation
+model (similar to that proposed by Lu and Meeker [9]). This
+preliminary model can be used to compute the RLD of a
+population of components. Evaluating the RLD is equivalent to
+computing the distribution of the time needed for the magnitude"
+264,"of the degradation signal to reach/cross a predetermined failure
+threshold η∗and can be expressed as follows:
+P{T ≤t|Φm, Ξik, Bil}
+=P{η(tij; Φm, Ξik, Bil) + ε(tij) ≥η∗|Φm, Ξik, Bil} .
+(2)
+Real-time degradation signals are used to revise the general-
+ized degradation model based on the unique degradation char-
+acteristics of each device or component being monitored. This
+is achieved by updating the prior distributions of the stochastic
+parameters and covariates. The sensory-updating procedure is"
+265,"based on a Bayesian approach. It combines two sources of
+information: 1) the prior distribution of the parameters across
+the population of components and 2) the real-time degradation
+signals unique to the individual component. Consequently, the
+resulting degradation model represents a more precise estimate
+of the true trajectory of the component’s degradation signal
+and can be used to update the distribution of the residual
+life of the component being monitored. In the following sec-"
+266,"tion, we review the exponential base case as proposed by
+Gebraeel et al. [10].
+A. Base Case Sensory-Updated Exponential Degradation
+Model: A Review
+The exponential base case is suitable for systems and compo-
+nents where preliminary and partial degradation accelerates the
+degradation process of a system. In this base case, we consider
+the special case where the error term follows a Brownian
+motion [10]. Under these assumptions, the amplitude of the"
+267,"observed degradation signal S(t) is deﬁned as follows:
+S(t) = θeβteε(t)−σ2t
+2
+(3)
+where θ is a random variable that follows a Lognormal distri-
+bution, i.e., ln θ is Normal with mean μo and variance σ2
+o, and
+β is Normal with mean μ1 and variance σ2
+1. The parameters θ
+and β are assumed to be independent. The error term ε(t) =
+σW(t) is a Brownian motion with mean zero and variance
+σ2t. For mathematical convenience, we work with the logged
+degradation signal. Thus, we deﬁne L(t) as follows:"
+268,"L(t) = θ′ + β′t + ε(t)
+(4)
+where θ′ = ln θ and β′ = β −(σ2/2).
+Li is assumed deﬁned as the increment between two con-
+secutive signals, i.e., Li = L(ti) −L(ti−1), the difference be-
+tween the observed value of the logged signal at times ti and
+ti−1, for i = 2, 3, . . ., with L1 = L(t1). π1(θ′) and π2(β′) are
+deﬁned as the prior distributions of θ′ and β′, respectively.
+Note that π1(θ′) is Normal with mean μ0 and variance σ2
+0, and
+π2(β′) is a Normal distribution with mean μ′
+1 = μ1 −(σ2/2)"
+269,"1 = μ1 −(σ2/2)
+and variance σ2
+1. The parameters of the prior distributions are
+estimated from a sample of degradation signals. The model
+requires that ε(0) = 0, and thus L(0) = θ′. The distribution of
+θ′ is estimated from the sample of signal intercepts. Due to
+the Brownian motion assumption, the error terms increments
+are independent identically distributed (i.i.d.), and the random
+KAISER AND GEBRAEEL: PREDICTIVE MAINTENANCE MANAGEMENT
+843"
+270,"843
+variables Xk (6) are i.i.d. with mean β′. Thus, X is used to
+estimate the value of β′ for an individual degradation signal
+Xk = L(tk) −L(tk−1)
+tk −tk−1
+,
+k = 1, 2, . . . .
+(5)
+Given the observed signal values, L1, . . . , Lk, observed at
+times t1, . . . , tk, the updated distributions of θ′ and β′ can be
+estimated using Bayes theorem
+P(θ′, β′|L1, . . . , Lk) ∝f(L1, . . . , Lk|θ′, β′)π1(θ′)π2(β′).
+(6)
+As previously mentioned, this model was developed in [10]."
+271,"The authors proved that the posterior distribution of (θ′, β′)
+is a Bivariate Normal distribution with mean (μθ′, μβ′) and
+variance (σ2
+θ′, σ2
+β′), where
+μθ′ =
+
+L1σ2
+o+μoσ2t1
+
+σ2
+1t+σ2
+−σ0t1
+
+σ2
+1
+k
+i=1 Li+μ′
+1σ2
+(σ2o+σ2t1)(σ2
+1t+σ2)−σ2oσ2
+1t1
+μβ′ =
+
+σ2
+1
+k
+i=1 Li+μ′
+1σ2
+σ2
+o+σ2t1
+
+−σ1
+
+L1σ2
+o+μoσ2t1
+
+(σ2o+σ2t1)(σ2
+1t+σ2)−σ2oσ2
+1t1
+σ2
+θ′ =
+σ2σ2
+ot1
+
+σ2
+1t+σ2
+o
+
+(σ2o+σ2t1)(σ2
+1t+σ2)−σ2oσ2
+1t1
+σ2
+β′ =
+σ2σ2
+1
+
+σ2
+o+σot1
+
+(σ2o+σ2t1)(σ2
+1t+σ2)−σ2oσ2
+1t1
+."
+272,"1
+
+σ2
+o+σot1
+
+(σ2o+σ2t1)(σ2
+1t+σ2)−σ2oσ2
+1t1
+.
+Next, we use the updated distributions of the stochastic
+parameters to compute the predictive distribution of the signal
+L(tk + t) which is Normal with the following mean and vari-
+ance [10]:
+˜μ(t + tk) = L(tk) + μβ′t
+(7)
+˜σ2(t + tk) = σ2
+β′t2 + σ2t.
+(8)
+Using the predictive distribution of the degradation signal,
+we calculate the updated RLD of the component that is being
+monitored as the distribution of the time until the degradation"
+273,"signal reaches a predetermined failure threshold D.
+Let T be a random variable that denote the residual life
+of the partially degraded component. Therefore, T satisﬁes
+L(tk + t) = D, and its distribution is given by
+FT (t) = P(T ≤t|L1, . . . , Lk) = Φ
+ ˜μ(t + tk) −ln(D)
+˜σ(t + tk)
+
+(9)
+where Φ(.) is the cumulative distribution function (cdf) of a
+standardized Normal random variable.
+The following subsection highlights the prediction accuracy"
+274,"of the sensor-based degradation modeling approach with the aid
+ball bearing application.
+B. Prediction Results
+Twenty-ﬁve rolling element bearings were run to failure,
+and their degradation signals observed over time. A sample
+of the degradation signals is shown in Fig. 1. Remaining life
+distributions are computed and updated continuously as the
+degradation signals are observed.
+Fig. 1.
+Example of vibration-based degradation signals associated with the
+degradation of rolling element bearings."
+275,"degradation of rolling element bearings.
+Fig. 2.
+Prediction errors using a base case sensory-updated degradation
+model.
+At the end of each test, the actual failure times of the bearings
+are noted, and the percentage difference between the actual
+(observed) and the predicted failure times are computed using
+the following expression
+Di
+k =
+
+ti
+k + ˆti
+k
+
+−F Bk
+F Bk
+(10)
+where Di
+k is the prediction error associated with bearing, Bk,
+computed at sampling epoch i, F Bk is the actual failure time"
+276,"of Bk, ti
+k is the current operating time of Bk at sampling epoch
+i, and ˆti
+k is the Median of the RLD of Bk computed at the ith
+sampling epoch. Note that the Median was chosen because the
+ﬁrst and second moments of the RLD could not be evaluated.
+Fig. 2 shows the prediction results of a base case sensory-
+updated exponential degradation model. The x-axis represents
+degradation percentiles at which RLDs were computed or up-
+dated. In other words, the 90th degradation percentile means"
+277,"that the component has accomplished 90% of its service life.
+Note that these percentiles are evaluated after actual failure
+times have been observed.
+IV. SUDM POLICY
+For a given system of partially degraded equipment, imple-
+menting the SUDM policy consists of the steps shown in Fig. 3.
+The ﬁrst step involves deﬁning degradation models that will be
+used to characterize the evolution of the degradation signals
+844"
+278,"844
+IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS—PART A: SYSTEMS AND HUMANS, VOL. 39, NO. 4, JULY 2009
+Fig. 3.
+Flow chart of the SUDM policy.
+associated with the equipment that are being monitored. This
+requires identifying the functional forms of the degradation
+models, i.e., linear, exponential, etc. Next, a database of degra-
+dation signals is used to estimate the parameters of the degrada-
+tion models. The result is set of generalized degradation models"
+279,"for each type of component, which can be used to estimate
+initial RLDs, FT (t). These preliminary distributions are used
+to compute expected remaining lifetimes E[RLD], which will
+be used to develop preliminary maintenance schedule. As noted
+by Gebraeel et al. [10], it is not possible to compute the mean
+of the RLD. Consequently, we use the median as our estimate
+of the residual life, Q0.5[RLD], where Q0.5 represents the
+50th quantile. Hence, the initial maintenance schedule is evalu-"
+280,"ated based on the predicted remaining lifetimes, Q0.5[RLD].
+This schedule is then revised using the sensory updating
+methodology.
+The SUDM policy uses in situ degradation signals acquired
+using CM techniques to continuously update the RLDs, in
+real-time. The updated predictions are then used to revise the
+initial maintenance schedule. Thus, the maintenance schedule is
+continuously modiﬁed as real-time degradation signals become
+available. The updating process continues until a pre-speciﬁed"
+281,"stopping rule is satisﬁed.
+A. Sensory-Updating Stopping Rule
+In the context of the sensory-updating procedure, the optimal
+stopping decision involves a tradeoff between continuing to up-
+date the RLDs and, in turn, revising the maintenance schedule
+versus stopping the acquisition of sensory-based signals and
+executing the most recently updated maintenance schedule. The
+beneﬁt of continuing the sensory-updating is that the resulting
+RLDs capture the most recent degradation state of the system"
+282,"being monitored, thus providing higher prediction accuracy.
+This fact was demonstrated by the plot f the prediction errors
+in Fig. 2. In order to ﬁnalize the maintenance schedule and
+plan the allocation of maintenance resources, it is necessary to
+stop the sensory-updating process and execute the most recent
+schedule. Stopping becomes even more important if we con-
+sider the costs of acquiring sensory data. In some applications,
+these costs can be relatively expensive."
+283,"these costs can be relatively expensive.
+This paper takes a basic approach in developing the stopping
+rule and serves as a preliminary step for future research. Our
+stopping rule is given by the following expression:
+min
+0<tk<∞{1 −[FT (tk+δ) −FT (tk)]} ≥R
+(11)
+where R is the desired reliability level, FT (tk) is the cdf
+of the remaining life updated at time tk, tk is the time or
+epoch at which the last degradation signal was observed, and"
+284,"δ represents a small time increment in the future (used for
+calculating the cdf).
+Equation (11) states that given a desired reliability level R,
+we continuously update the RLD of an operating component
+until the ﬁrst updating time epoch tk, where the component’s
+instantaneous reliability exceeds the desired reliability R. Once
+the stopping rule has been satisﬁed, the corresponding RLD is
+used to schedule maintenance for the component or equipment
+being monitored."
+285,"being monitored.
+V. SIMULATION MODEL OF THE SUDM POLICY
+This simulation model studies the effect of the proposed
+maintenance policy on the performance of a simple manufac-
+turing workcell consisting of ﬁve parallel single-stage manu-
+facturing workstations (see Fig. 4). Preprocessed parts arrive
+to a staging station. The interarrival time is assumed to be
+exponential with a mean 0.25 min. Upon arrival, each part is
+processed on the ﬁrst available workstation. The processing"
+286,"times of each workstation is assumed to follow a triangular
+distribution (0.6, 0.8, 1). Upon completion, the ﬁnished part is
+transferred to a shipping area.
+An operational workstation can become unavailable for two
+possible reasons: a random failure occurs or a scheduled main-
+tenance routine is performed. Workstation failures follow a
+Weibull failure time distribution. Speciﬁcally, a workstation’s
+downtime is assumed to be random and follows a Normal distri-"
+287,"bution with mean 5 min and variance 0.5 min. Furthermore, we
+assume that each workstation degrades gradually until it fails.
+A database of a bearing-application failure times and degra-
+dation signals is used to provide real-world degradation data.
+The degradation database is developed from a series of acceler-
+ated degradation tests in which vibration signals associated with
+the degradation of rolling element bearings are continuously"
+288,"acquired during run-to-failure tests. The degradation database
+contains vibration-based degradation signals of 50 bearings as
+KAISER AND GEBRAEEL: PREDICTIVE MAINTENANCE MANAGEMENT
+845
+Fig. 4.
+Schematic of the manufacturing workcell.
+well as their associated failure times. This is the same database
+used by Gebraeel et al. [10], [11]. The failure times will be
+used to estimate the parameters of the Weibull distribution. On
+the other hand, the vibration-based degradation signals will be"
+289,"used to simulate the degradation of the workstations. This does
+not imply that a bearing is the only component degrading in
+the workstation. This simply suggests that we are using real-
+world degradation signals to represent the degradation process
+of a workstation as a single degrading entity, as opposed to,
+simulating degradation signals and using them to represent
+workstation degradation within our simulation model.
+Before we perform our simulation study, we will ﬁrst divide"
+290,"our bearing degradation database into two sets. The ﬁrst set,
+deﬁned as the “prior set,” will be used to estimate the param-
+eters of the degradation model and the Weibull failure time
+distribution. The second set, deﬁned as “validation set,” will
+be used to evaluate the performance of our maintenance policy.
+A. Estimation of Prior Parameters
+Failure times of the ﬁrst 25 bearings (bearings 1 to 25) were
+used to estimate the scale and shape parameters of the Weibull"
+291,"distribution, θW = 3.0549 and βW = 784.75 (subscript “W” is
+used to distinguish the parameters of the Weibull distribution
+from the stochastic parameters of the degradation models).
+The corresponding 25 degradation signals (bearings 1 to 25)
+are used to estimate the prior distributions of the stochastic
+parameters of the exponential degradation model. The prior
+distribution of θ; π1(θ) ∼N(−6.031, 0.346). As previously
+mentioned, to estimate β′, we use X which is expressed by"
+292,"equation (6). Twenty-ﬁve estimates of β′ are used to derive
+its prior distribution as follows: π2(β′) ∼N(0.0081, 1.035 ×
+10−5). The error terms are assumed to have independent and
+normally distributed increments (Brownian motion assump-
+tion). That is ε(t1), ε(t2) −ε(t1), . . . , ε(tk) −ε(tk−1) are as-
+sumed to be independent and normally distributed with mean
+zero and variance σ2(tk+1 −tk).
+At the beginning of the simulation, preliminary RLDs for"
+293,"each workstation are computed using the prior information.
+During the simulation, degradation signals from the validation
+set (from bearings 26 to 50) are used to represent the degra-
+dation of each workstation. As the signals are observed, they
+are used to update the RLD of corresponding workstation. The
+updating process continues until the stopping rule in (10) is sat-
+isﬁed. Note that in our simulation model the desired reliability"
+294,"level R refers to the reliability of an individual workstation. The
+updated RLD is used to revise the maintenance schedule.
+Our simulation model consists of two submodels. The ﬁrst
+is called the Manufacturing submodel and is used to simulate
+the operational characteristics of the manufacturing workcell.
+The second submodel characterizes the control logic of the
+maintenance policy and is referred to as the Maintenance Policy
+submodel.
+B. Manufacturing Workcell Submodel"
+295,"submodel.
+B. Manufacturing Workcell Submodel
+The manufacturing submodel is used to simulate part arrival,
+processing, and departure. Parts arrive to the system randomly
+at a predetermined rate and are held in a queue until one of
+ﬁve workstations becomes available. If all the workstations are
+occupied, i.e., already processing parts, the part waits in queue
+until a workstation becomes available. Once a workstation is
+available, the ﬁrst part in the queue is processed according to"
+296,"a prespeciﬁed processing time. The processing time of each
+workstation is assumed to follow a Triangular distribution with
+the following parameters 0.6, 0.8, and 1 time units. Once
+processing is complete, the part exits the system.
+C. Maintenance Policy Submodel
+This submodel simulates workstation failures and planned re-
+placements. This is performed using two subroutines. The ﬁrst
+is responsible for generating workstation failure times while"
+297,"the second is responsible for shutting down the workstation.
+The two subroutines work in tandem to simulate failure and
+maintenance for each workstation.
+1) Failure Time Subroutine: We assume that each worksta-
+tion undergoes graceful degradation, and its degradation signal
+is simulated using a real-world vibration-based degradation
+signal (similar to the ones used in [11]). During simulation, the
+degradation signal of workstation i is used to update its RLD"
+298,"using (9). Once the stopping rule is satisﬁed, we compute a
+planned maintenance interval for the ith workstation, mainte-
+nance_interval_i, which is given by the following expression:
+maintenance_interval_i = Q0.5
+	
+RLDk
+i"
+299,"(12)
+where RLDk
+i is the RLD of workstation i evaluated at the
+time tk.
+A workstation experiences an unexpected failure if its degra-
+dation signal reaches a failure threshold, i.e.,
+tk + Q0.5
+	
+RLDk
+i"
+300,"> failure_time_i.
+(13)
+The term tk + Q0.5[RLDk
+i ] represents the predicted failure
+time. failure_time_i is the actual failure time of the ith work-
+station. The values of the variable failure_time are generated
+846
+IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS—PART A: SYSTEMS AND HUMANS, VOL. 39, NO. 4, JULY 2009
+from a distribution (assumed to be Weibull) given that the
+workstation has survived up to tk.
+2) Resource Shutdown Subroutine: The resource shutdown"
+301,"subroutine is responsible for identifying the type of shutdown
+that occurs, i.e., unexpected failure or planned maintenance/
+replacement. There are two cases described below.
+1) If (tk + Q0.5[RLDk
+i ]) > failure_time_i, the shutdown
+is for a planned maintenance routine. Once maintenance
+is complete, the workstation is assumed to be “as good as
+new.” A variable Nm is used to track the total number of
+planned replacements.
+2) If (tk + Q0.5[RLDk
+i ]) < failure_time_i, the shutdown"
+302,"i ]) < failure_time_i, the shutdown
+is due to an unexpected failure. A variable Nf is used
+to track the total number of failure replacements. Unex-
+pected failures occur only if the workstation’s degrada-
+tion signal reaches or exceeds a failure threshold before a
+planned maintenance is scheduled.
+D. Benchmark Policies
+We compare the performance of our proposed maintenance
+policy with two benchmark maintenance policies: a conven-
+tional reliability-based PM policy and a degradation-based"
+303,"maintenance (DM) policy that uses a similar exponential degra-
+dation model but without the updating procedure (similar to Lu
+and Meeker [9]).
+1) PM Policy: The reliability-based PM policy uses a failure
+time distribution to calculate the planned PM interval. For the
+purpose of this analysis, we assume that the failure time of
+the workstations follows the same failure distribution obtained
+using failure times of the 25 bearings discussed earlier. We are"
+304,"interested in evaluating the maintenance interval tR. To do this,
+we solve for tR in the following expression:
+F(tR) = (1 −R) = 1 −e−(tR/θW)βW
+(14)
+where F(tR) is the cdf of a Weibull distribution, θW is the
+scale parameter and βW is the shape parameter of the Weibull
+distribution, and R is the desired reliability level of the system.
+We would like to emphasize that the PM policy is a time-
+based policy. Thus, it does not consider the condition or degra-"
+305,"dation state of the equipment being maintained.
+2) DM Policy: The second benchmark maintenance policy
+is based on the degradation modeling framework developed by
+Lu and Meeker in [9]. This policy differs from the SUDM in
+that there is no updating of the RLDs. Similar to the SUDM
+policy, we focus on the exponential degradation model
+S(t) = θeβt
+(15)
+where θ and β are random variables whose distribution follows
+the prior distribution evaluated earlier for the degradation mod-"
+306,"els used in the SUDM policy.
+Once again for mathematical convenience, we work with the
+log of the degradation signal
+L(t) = ln (S(t)) = ln(θ) + βt
+(16)
+where ln θ ∼N(μ0, σ2
+0) and β ∼N(μ1, σ2
+1).
+Fig. 5.
+Frequency of failures for R = 70%.
+Fig. 6.
+Frequency of failures for R = 90%.
+The RLD is equivalent to the distribution of the time it takes
+a partial degradation signal to reach a predetermined failure
+threshold, D. For this degradation model, the cdf residual of"
+307,"the residual life is expressed as follows:
+FT (tR) = P(T ≤tR) = Φ
+
+tR −[ln(D) −μ0] /μ1
+
+[σ2
+0 + σ2
+1t2
+R] /μ2
+1
+
+.
+(17)
+Given a desired reliability level R = 1 −FT (tR), we solve
+the above expression and ﬁnd the corresponding planned main-
+tenance interval, tR. This policy is different from the PM policy
+in that planned maintenance routines are based on condition-
+based information. However, it does not account for the recent
+state of health of the workstation that is being monitored."
+308,"In the next section, we evaluate the performance of the
+proposed policy by observing the number of failures, planned
+replacements, and total maintenance costs. The results are com-
+pared with those of the two benchmark maintenance policies.
+VI. IMPLEMENTATION AND RESULTS
+Arena simulation is used to simulate the continuous opera-
+tion of the manufacturing workcell. The simulation consists of
+several runs. Each run is 365 days, and each day is assumed"
+309,"to be two 8-h shifts. Separate runs were performed for each
+maintenance policy.
+Figs. 5 and 6 show frequency plots of the number of failures
+associated with each maintenance policy at two levels of target
+reliability, R = 70% and R = 90%. It is clear that the SUDM
+maintenance policy results in a signiﬁcantly lower number of
+unexpected workstation failures at both levels of reliability.
+KAISER AND GEBRAEEL: PREDICTIVE MAINTENANCE MANAGEMENT
+847
+Fig. 7."
+310,"847
+Fig. 7.
+Frequency of maintenance routines for R = 70%.
+Fig. 8.
+Frequency of maintenance routines for R = 90%.
+TABLE I
+MEANS AND STANDARD DEVIATIONS OF NUMBER OF FAILURE
+REPLACEMENTS FOR R = 70% AND R = 90%
+TABLE II
+MEANS AND STANDARD DEVIATIONS OF NUMBER OF PLANNED
+REPLACEMENTS FOR R = 70% AND R = 90%
+We believe that this difference is due to the sensory-updating
+process that occurs in the SUDM policy.
+Figs. 7 and 8 show the frequency of planned maintenance"
+311,"routines for each maintenance policy. The plots represent the
+number of preventive workstation replacements at the 70% and
+90% reliability levels.
+Tables I and II show the means and standard deviations of
+the number of failure replacements and planned replacements,
+respectively, at 70% and 90% reliability levels. We observe that
+the SUDM policy has the lowest mean and standard deviation
+for the number of failure replacements (Table I). Our policy has"
+312,"a higher number of planned replacements (Table II).
+Fig. 9.
+Total costs of maintenance policies assuming Cf/Cm = 15/1.
+Fig. 10.
+Total costs of maintenance policies assuming Cf/Cm = 5/1.
+Fig. 11.
+Total costs of maintenance policies assuming Cf/Cm = 2/1.
+We also analyze the total maintenance costs TC of each
+policy, i.e., costs of planned replacement plus costs of failure
+replacements
+TC = NfCf + NmCm
+(18)
+where Nf is the number of failure replacements, Cf is the"
+313,"cost of performing a failure replacement, Nm is the number
+of workstation planned replacements, and Cm is the cost of
+performing a planned replacement.
+The analysis was performed for three different Cf/Cm ratios;
+“15/1,” “5/1,” and “2/1.” Figs. 9–11 show the total maintenance
+costs for each maintenance policy as a function of different
+reliability levels. For each ratio, Cf is assumed to be $750. The
+SUDM policy has the lowest total maintenance cost across all
+three cost ratios.
+848"
+314,"three cost ratios.
+848
+IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS—PART A: SYSTEMS AND HUMANS, VOL. 39, NO. 4, JULY 2009
+It is clear from Fig. 9 that the total costs associated with
+the PM and the DM policies tend to decrease as the reliability
+level increases. This observation is expected. Higher target
+reliability levels correspond to lower number of failures and,
+thus, lower failure costs. At the same time, higher reliability"
+315,"levels result in more frequent planned replacements. Due to the
+large ratio between the cost of failure and the cost of planned
+replacement (15 : 1), the effect of the planned replacement costs
+is offset by the high failure replacement costs. However, as
+the ratio decreases this phenomenon becomes less evident. In
+other words, the effect of the costs of planned replacements
+becomes a signiﬁcant component and indeed increases the total
+maintenance cost, see Fig. 11 (also see Tables I and II)."
+316,"It is interesting to note that the total maintenance cost of the
+SUDM policy always increases with increasing target reliability
+levels. This is true across all the cost ratios that were tested.
+We believe that this trend results from the lower amount of
+degradation signals that are used to update the RLDs, thus
+compromising the accuracy of the life predictions.
+Higher target reliability levels imply that the stopping rule
+(10) is invoked at an earlier stage. In other words, the portion of"
+317,"the degradation signal that is used to update the RLD at a 95%
+target reliability level is smaller than that used to update the life
+distribution at a 70% target reliability level. We believe that the
+reduced level of health information acquired from a degradation
+signal at 95% target reliability level results in less accurate
+residual life predictions compared to their counter parts at 70%
+reliability. Consequently, this results in a higher number of un-"
+318,"expected failures, hence more failure replacements and higher
+total maintenance costs. Thus, sensory-updating is crucial to
+ensuring accurate estimation of the residual lifetime.
+VII. CONCLUSION
+This paper presents a Sensory-Updated Degradation-Based
+Maintenance (SUDM) policy that uses residual life distri-
+butions (RLDs) to evaluate predictive maintenance schedules.
+The RLDs are computed using a stochastic degradation models
+that can be updated in real-time using in situ degradation
+signals."
+319,"signals.
+The updated distributions are used to revise the schedule
+of maintenance routines based on the most recently observed
+degradation information. A stopping rule uses instantaneous re-
+liability levels to deﬁne a stopping time after which the recently
+updated RLDs are used to ﬁnalize the maintenance schedule.
+A simulation model of a small manufacturing facility with
+ﬁve parallel workstations is used to evaluate the performance of
+the proposed maintenance policy. We consider two main cost"
+320,"components: cost of planned replacement and failure replace-
+ment. Three cost ratios were studied. The performance of the
+proposed policy policy is also compared with two benchmark
+policies: a reliability-based PM policy and DM policy.
+Our results show that the SUDM policy have the lowest
+maintenance costs. Future research is still needed to investigate
+the effect of the proposed maintenance policy on larger systems.
+The research can also be extended to study maintenance-related"
+321,"logistics, speciﬁcally replacement and spare parts inventory
+costs. Another very important topic to be investigated within
+this maintenance framework is the degradation of the sensors
+that are used in CM and the ﬁdelity of the sensor signals.
+ACKNOWLEDGMENT
+The authors would like to thank the Editor-in-Chief and the
+referees for the valuable comments and constructive criticism
+that were essential for improving this paper.
+REFERENCES"
+322,"REFERENCES
+[1] H. Wang, “A survey of maintenance policies of deteriorating systems,”
+Eur. J. Oper. Res., vol. 139, no. 3, pp. 469–489, Jun. 2002.
+[2] M.
+Chen
+and
+R.
+Feldman,
+“Optimal
+replacement
+policies
+with
+minimal repair and age-dependent costs,” Eur. J. Oper. Res., vol. 98, no. 1,
+pp. 75–84, Apr. 1997.
+[3] M. Ben-Daya, S. O. Duffuaa, and A. Raouf, Maintenance, Modeling and
+Optimization.
+Norwell, MA: Kluwer, 2000.
+[4] L. Maillart, “Maintenance policies for systems with condition monitoring"
+323,"and obvious failures,” IIE Trans., vol. 38, no. 6, pp. 463–475, Jun. 2006.
+[5] F. Barbera, H. Schneider, and P. Kelle, “A condition based maintenance
+model with exponential failures and ﬁxed inspection interval,” J. Oper.
+Res. Soc., vol. 47, no. 8, pp. 1037–1045, 1996.
+[6] T. Sloan and J. G. Shanthikumar, “Combined production and maintenance
+scheduling for a multiple-product, single-machine production system,”
+Prod. Oper. Manag., vol. 9, no. 4, pp. 379–399, 2000."
+324,"[7] M. Marseguerra, E. Zio, and L. Podoﬁllini, “Condition-based mainte-
+nance optimization by means of genetic algorithm and Monte Carlo
+simulation,” Reliab. Eng. Syst. Saf., vol. 77, no. 2, pp. 151–165,
+Aug. 2002.
+[8] W. Nelson, Accelerated Testing Statistical Models, Test Plans, and Data
+Analysis.
+New York: Wiley, 1990.
+[9] C. Lu and W. Meeker, “Using degradation measures to estimate a time-to-
+failure distribution,” Technometrics, vol. 35, no. 2, pp. 161–174, 1993."
+325,"[10] N. Gebraeel, M. Lawley, R. Li, and J. Ryan, “Residual-life distributions
+from component degradation signals: A Bayesian approach,” IIE Trans.,
+vol. 37, pp. 543–557, 2005.
+[11] N. Gebraeel, “Sensory updating residual life distributions for components
+with exponential degradation patterns,” IEEE Trans. Autom. Sci. Eng.,
+vol. 3, no. 4, pp. 382–397, Oct. 2006.
+[12] T. Nakagawa and K. Ito, “Optimal maintenance policies for a system with"
+326,"multiechelon risks,” IEEE Trans. Syst., Man, Cybern. A, Syst., Humans,
+vol. 38, no. 2, pp. 461–469, Mar. 2008.
+[13] S. Wu, N. Gebraeel, M. A. Lawley, and Y. Yih, “A neural network in-
+tegrated decision support system for condition-based optimal predictive
+maintenance policy,” IEEE Trans. Syst., Man, Cybern. A, Syst., Humans,
+vol. 37, no. 2, pp. 226–236, Mar. 2007.
+[14] A. K. S. Jardine and P. M. Anderson, “Use of concomitant variables for"
+327,"reliability estimation,” Maint. Manag. Int., vol. 5, no. 2, pp. 135–140,
+1985.
+[15] A. K. S. Jardine, P. M. Anderson, and D. S. Mann, “Application of the
+Weibull proportional hazards model to aircraft and marine engine failure
+data,” Qual. Reliab. Eng. Int., vol. 3, no. 2, pp. 77–82, 1987.
+[16] A. K. S. Jardine, P. Ralston, N. Reid, and J. Stafford, “Proportional
+hazards analysis of diesel engine failure data,” Qual. Reliab. Eng. Int.,
+vol. 5, no. 3, pp. 207–216, 1989."
+328,"vol. 5, no. 3, pp. 207–216, 1989.
+[17] K. A. H. Kobbacy, B. B. Fawzi, D. F. Percy, and H. E. Ascher, “A full his-
+tory proportional hazards model for preventive maintenance scheduling,”
+Qual. Reliab. Eng. Int., vol. 13, no. 4, pp. 187–198, 1997.
+[18] D. Kumar and U. Westber, “Maintenance scheduling under age re-
+placement policy using proportional hazard model and TTT-plotting,”
+Eur. J. Oper. Res., vol. 99, no. 3, pp. 507–515, Jun. 1997."
+329,"[19] D. Lin, D. Banjevic, and A. K. S. Jardine, “Using principal components
+in a proportional hazards model with applications in condition-based
+maintenance,” J. Oper. Res. Soc., vol. 57, no. 8, pp. 910–919, Aug. 2006.
+[20] V. Makis, Y. Zhan, and A. K. S. Jardine, “Adaptive state detection of
+gearboxes under varying load conditions based on parametric modelling,”
+Mech. Syst. Signal Process., vol. 20, no. 1, pp. 188–221, Jan. 2006."
+330,"[21] P. J. Vlok, J. L. Coetzee, D. Banjevic, A. K. S. Jardine, and V. Makis,
+“Optimal component replacement decisions using vibration monitoring
+and the proportional-hazards model,” J. Oper. Res. Soc., vol. 53, no. 2,
+pp. 193–202, Feb. 2002.
+[22] K. Doksum and A. Hoyland, “Models for variable-stress accelerated test-
+ing experiments based on Wiener processes and the inverse Gaussian
+distribution,” Technometrics, vol. 34, no. 1, pp. 74–82, Feb. 1992."
+331,"KAISER AND GEBRAEEL: PREDICTIVE MAINTENANCE MANAGEMENT
+849
+[23] G. A. Whitmore, “Estimating degradation by a Wiener diffusion
+process subject to measurement error,” Lifetime Data Anal., vol. 1, no. 3,
+pp. 307–319, Sep. 1995.
+[24] G. A. Whitmore and F. Schenkelberg, “Modelling accelerated degradation
+using Wiener diffusion with a time scale transformation,” Lifetime Data
+Anal., vol. 3, no. 1, pp. 27–45, 1997.
+[25] J. S. Lee and K. S. Park, “Joint determination of production cycle and"
+332,"inspection intervals in a deteriorating production system,” J. Oper. Res.
+Soc., vol. 42, no. 9, pp. 775–783, 1991.
+[26] V. Makis and J. Fung, “An EMQ model with inspections and random
+machine failures,” J. Oper. Res. Soc., vol. 49, no. 1, pp. 66–76, Jan. 1998.
+[27] H. L. Lee and M. J. Rosenblatt, “Simultaneous determination of produc-
+tion cycle and inspection schedules in a production system,” Manage. Sci.,
+vol. 33, no. 9, pp. 1125–1136, Sep. 1987."
+333,"vol. 33, no. 9, pp. 1125–1136, Sep. 1987.
+[28] Z. Yang, D. Djurdjanovic, and J. Ni, “Maintenance scheduling in man-
+ufacturing systems based on predicted machine degradation,” J. Intell.
+Manuf., vol. 19, no. 1, pp. 87–98, Feb. 2008.
+[29] A. Andijani and S. Duffuaa, “Critical evaluation of simulation studies in
+maintenance systems,” Prod. Plan. Control, vol. 13, no. 4, pp. 336–341,
+Jun. 2002.
+[30] L. Jianhui, K. R. Pattipati, Q. Liu, and S. Chigusa, “Model-based prognos-"
+334,"tic techniques applied to a suspension system,” IEEE Trans. Syst., Man,
+Cybern. A, Syst., Humans, vol. 38, no. 5, pp. 1156–1168, Sep. 2008.
+[31] L. Wang, J. Chu, and W. J. Mao, “A condition-based replacement and
+spare provisioning policy for deteriorating systems with uncertain dete-
+rioration to failure,” Eur. J. Oper. Res., vol. 194, no. 1, pp. 184–205,
+Apr. 2009.
+[32] R. Logendran and D. Talkington, “Analysis of cellular and functional"
+335,"manufacturing systems in the presence of machine breakdown,” Int. J.
+Prod. Econ., vol. 53, no. 3, pp. 239–256, Dec. 1997.
+[33] M. L. Vineyard and J. R. Meredith, “Effect of maintenance policies
+on FMS failures,” Int. J. Prod. Res., vol. 30, no. 11, pp. 2647–2657,
+Nov. 1992.
+[34] M. Savsar, “Performance analysis of an FMS operating under different
+failure rates and maintenance policies,” Int. J. Flex. Manuf. Syst., vol. 16,
+no. 3, pp. 229–249, Jul. 2005."
+336,"no. 3, pp. 229–249, Jul. 2005.
+[35] N. Rezg, A. Chelbi, and X. Xie, “Modeling and optimizing a joint inven-
+tory control and preventive maintenance strategy for a randomly failing
+production unit: Analytical and simulation approaches,” Int. J. Comput.
+Integr. Manuf., vol. 18, no. 2/3, pp. 225–235, Mar.–May 2005.
+Kevin A. Kaiser received the B.S. and M.S. de-
+grees in industrial engineering from the University
+of Iowa, Ames, in 2005 and 2007, respectively. His"
+337,"M.S. thesis focused on the development of simula-
+tion models for testing advanced prognostic models
+for just-in-time maintenance management.
+He is currently a System Engineer with Cerner
+Corporation, Kansas City, MO. Cerner Corporation
+provides healthcare information technology solu-
+tions and services in the Americas, Europe, the
+Middle East, and the Asia Paciﬁc region.
+Nagi Z. Gebraeel received the Ph.D. degree from
+Purdue University, West Lafayette, IN, in 2003."
+338,"Purdue University, West Lafayette, IN, in 2003.
+He is currently an Assistant Professor of industrial
+and systems engineering with the School of Indus-
+trial and Systems Engineering, Georgia Institute of
+Technology, Atlanta. His research interests include
+prognostics and sensor-driven logistics, degrada-
+tion modeling, and reliability, particularly the im-
+provement of the accuracy of predicting unexpected
+failures of engineering systems by leveraging sensor-"
+339,"based data streams and the study of the impact of
+these developments on maintenance operations and spare-parts logistics.
+Dr. Gebraeel is a member of the Institute of Industrial Engineers and the
+Institute for Operations Research and the Management Sciences.
+View publication stats"
